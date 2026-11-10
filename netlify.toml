@@ -1,0 +1,14 @@
+# Netlify builds the site from source on every push to GitHub, so the live site always matches the code.
+[build]
+  command = "npm run build:web"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  CI = "1"
+
+# Single-page app: any path (like /genre/quant) opens the app.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

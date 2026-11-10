@@ -1,0 +1,4861 @@
+{
+ "contentVersion": 1,
+ "questions": [
+  {
+   "id": "QUA-001",
+   "genreId": "quant",
+   "primarySkill": "Percentages",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "A tropical trail has 240 steps. You have climbed 25%. How many steps have you climbed?",
+   "answer": "60",
+   "explanation": "25% is one quarter; 240/4 = 60.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-002",
+   "genreId": "quant",
+   "primarySkill": "Percentages",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "A backpack costs ₹800 before a 15% discount. Find the selling price in rupees.",
+   "answer": "680",
+   "explanation": "Discount = 0.15 × 800 = 120; price = 800 − 120.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-003",
+   "genreId": "quant",
+   "primarySkill": "Ratio",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "Red and blue crystals are in the ratio 3:5. There are 64 in total. How many are red?",
+   "answer": "24",
+   "explanation": "Eight ratio parts represent 64, so one part is 8. Red = 3 × 8.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-004",
+   "genreId": "quant",
+   "primarySkill": "Ratio",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "Six bottles hold 9 litres equally. How many litres do ten such bottles hold?",
+   "answer": "15",
+   "explanation": "Each bottle holds 9/6 = 1.5 litres; ten hold 15.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-005",
+   "genreId": "quant",
+   "primarySkill": "Averages",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "Four trail scores are 12, 18, 20 and 30. Find their mean.",
+   "answer": "20",
+   "explanation": "Total = 80; divide by four.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-006",
+   "genreId": "quant",
+   "primarySkill": "Averages",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "The mean of five numbers is 16. Four are 12, 14, 17 and 19. Find the fifth.",
+   "answer": "18",
+   "explanation": "Required total = 80. Known total = 62. Missing value = 18.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-007",
+   "genreId": "quant",
+   "primarySkill": "Profit and loss",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "An item bought for ₹450 sells for ₹540. What is the profit percentage on cost?",
+   "answer": "20",
+   "explanation": "Profit = 90; 90/450 × 100 = 20%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-008",
+   "genreId": "quant",
+   "primarySkill": "Interest",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "Find simple interest in rupees on ₹1, 200 at 5% per year for 2 years.",
+   "answer": "120",
+   "explanation": "Interest = 1200 × 5 × 2/100.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-009",
+   "genreId": "quant",
+   "primarySkill": "Speed",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "A ranger walks 18 km in 3 hours at constant speed. What is the speed in km/h?",
+   "answer": "6",
+   "explanation": "Speed = distance/time = 18/3.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-010",
+   "genreId": "quant",
+   "primarySkill": "Work",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "A pump fills 1/8 of a tank per hour. How many hours does an empty tank take to fill?",
+   "answer": "8",
+   "explanation": "Time = 1 divided by the hourly rate 1/8.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-011",
+   "genreId": "quant",
+   "primarySkill": "Number systems",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "Find the greatest common divisor of 24 and 36.",
+   "answer": "12",
+   "explanation": "Common factors include 1, 2, 3, 4, 6 and 12; the greatest is 12.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-012",
+   "genreId": "quant",
+   "primarySkill": "Probability",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "A bag contains 3 red and 7 blue stones. One is drawn uniformly. Give the probability of red as a fraction.",
+   "answer": "3/10",
+   "explanation": "Three favourable stones out of ten equally likely stones.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-013",
+   "genreId": "quant",
+   "primarySkill": "Successive percentages",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "A price rises by 20% and then falls by 20%. What is the final price as a percentage of the original?",
+   "answer": "96",
+   "explanation": "Multiply 1.20 by 0.80 to get 0.96. Equal percentage changes do not cancel.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-014",
+   "genreId": "quant",
+   "primarySkill": "Reverse percentages",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "After a 25% discount, a tent costs ₹900. Find its original price.",
+   "answer": "1200",
+   "explanation": "The sale price is 75% of original; 900/0.75 = 1200.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-015",
+   "genreId": "quant",
+   "primarySkill": "Mixtures",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 8,
+   "prompt": "A 30-litre mixture has milk and water in ratio 2:1. How many litres of water must be added to make the ratio 1:1?",
+   "answer": "10",
+   "explanation": "Initially milk = 20 and water = 10. Water must reach 20.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-016",
+   "genreId": "quant",
+   "primarySkill": "Weighted averages",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 8,
+   "prompt": "Ten students average 60 marks and fifteen average 80 marks. Find the combined mean.",
+   "answer": "72",
+   "explanation": "Total marks = 10×60 + 15×80 = 1800; divide by 25.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-017",
+   "genreId": "quant",
+   "primarySkill": "Time and work",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 9,
+   "prompt": "A finishes a job in 12 days and B in 18 days. Working together, how many days do they need?",
+   "answer": "36/5",
+   "explanation": "Combined daily rate = 1/12 + 1/18 = 5/36. Time = 36/5 days.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-018",
+   "genreId": "quant",
+   "primarySkill": "Pipes",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 9,
+   "prompt": "An inlet fills a tank in 6 hours and an outlet empties a full tank in 9 hours. Both open on an empty tank: how many hours to fill it?",
+   "answer": "18",
+   "explanation": "Net rate = 1/6 − 1/9 = 1/18 tank per hour.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-019",
+   "genreId": "quant",
+   "primarySkill": "Relative speed",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 10,
+   "prompt": "Two hikers start 42 km apart and walk toward each other at 4 and 3 km/h. After how many hours do they meet?",
+   "answer": "6",
+   "explanation": "Closing speed = 7 km/h; 42/7 = 6.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-020",
+   "genreId": "quant",
+   "primarySkill": "Average speed",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 10,
+   "prompt": "A cyclist covers equal distances at 12 and 18 km/h. Find the overall average speed in km/h.",
+   "answer": "72/5",
+   "explanation": "For equal distances, average = 2ab/(a+b) = 432/30 = 14.4.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-021",
+   "genreId": "quant",
+   "primarySkill": "Algebra",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "Positive numbers x and y satisfy x+y=13 and xy=40. Find x²+y².",
+   "answer": "89",
+   "explanation": "(x+y)² − 2xy = 169 − 80 = 89.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-022",
+   "genreId": "quant",
+   "primarySkill": "Quadratics",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "The roots of x²−9x+20=0 are trail codes. Enter the larger root.",
+   "answer": "5",
+   "explanation": "Factor as (x−4)(x−5)=0; the larger root is 5.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-023",
+   "genreId": "quant",
+   "primarySkill": "Divisibility",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "Find the smallest positive integer divisible by 6, 8 and 15.",
+   "answer": "120",
+   "explanation": "LCM uses 2³, 3 and 5, giving 120.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-024",
+   "genreId": "quant",
+   "primarySkill": "Remainders",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "What is the remainder when 7^23 is divided by 6?",
+   "answer": "1",
+   "explanation": "7 is congruent to 1 modulo 6, so every positive power has remainder 1.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-025",
+   "genreId": "quant",
+   "primarySkill": "Probability without replacement",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "A bag has 4 red and 6 blue stones. Two are drawn without replacement. What is the probability both are red?",
+   "answer": "2/15",
+   "explanation": "(4/10)(3/9)=12/90=2/15.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-026",
+   "genreId": "quant",
+   "primarySkill": "Combinations",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "Choose 3 guides from 7; order does not matter. How many teams are possible?",
+   "answer": "35",
+   "explanation": "7 choose 3 = 7×6×5/(3×2×1)=35.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-027",
+   "genreId": "quant",
+   "primarySkill": "Geometry",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "A rectangular clearing has perimeter 50 m and length 15 m. Find its area in square metres.",
+   "answer": "150",
+   "explanation": "Width = 25−15 = 10; area = 15×10.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-028",
+   "genreId": "quant",
+   "primarySkill": "Mensuration",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "A cylinder has radius 3 cm and height 10 cm. Give its volume divided by π, in cubic centimetres.",
+   "answer": "90",
+   "explanation": "Volume = πr²h = 90π; dividing by π gives 90.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-029",
+   "genreId": "quant",
+   "primarySkill": "Progressions",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "An arithmetic sequence starts at 7 and increases by 4 each term. Find its 15th term.",
+   "answer": "63",
+   "explanation": "a 15 = 7+(15−1)×4 = 63.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-030",
+   "genreId": "quant",
+   "primarySkill": "Coded operations",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "Replace @ with addition and # with multiplication. Evaluate 8 @ 3 # 4 using standard precedence.",
+   "answer": "20",
+   "explanation": "Decode first: 8+3×4 = 8+12 = 20.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-031",
+   "genreId": "quant",
+   "primarySkill": "Set counting",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "Of 50 explorers, 28 know climbing, 24 know kayaking and 10 know both. How many know neither?",
+   "answer": "8",
+   "explanation": "Union = 28+24−10=42; neither = 50−42.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-032",
+   "genreId": "quant",
+   "primarySkill": "Compound interest",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "₹5, 000 grows at 10% annually, compounded once a year. Find the interest earned in 2 years.",
+   "answer": "1050",
+   "explanation": "Amount = 5000×1.1²=6050; interest = 1050.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-033",
+   "genreId": "quant",
+   "primarySkill": "CAT-style mixtures",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "A 40-litre vessel contains milk and water in ratio 3:1. Ten litres of well-mixed liquid are removed and replaced with water, twice. How many litres of milk remain?",
+   "answer": "135/8",
+   "explanation": "Initially 30 litres of milk. Each removal retains 30/40 of the milk. Final milk = 30×(3/4)² = 135/8.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-034",
+   "genreId": "quant",
+   "primarySkill": "CAT-style work",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "A and B together finish a job in 12 days, B and C in 15, and C and A in 20. How many days would A alone take?",
+   "answer": "30",
+   "explanation": "Twice A's rate = 1/12+1/20−1/15=1/15; A's rate = 1/30.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-035",
+   "genreId": "quant",
+   "primarySkill": "CAT-style integers",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "How many ordered pairs of positive integers (x, y) satisfy 1/x + 1/y = 1/6?",
+   "answer": "9",
+   "explanation": "Rearrangement gives (x−6)(y−6)=36. Both factors are positive. The nine positive divisors of 36 give nine ordered pairs.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-036",
+   "genreId": "quant",
+   "primarySkill": "CAT-style counting",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "How many 5-digit numbers can be formed from digits 0, 1, 2, 3, 4, 5 without repetition that are divisible by 5?",
+   "answer": "216",
+   "explanation": "Last digit 0: 5P4=120. Last digit 5: first digit has 4 choices, remaining three positions 4P3=24, giving 96. Total 216.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-037",
+   "genreId": "quant",
+   "primarySkill": "CAT-style probability",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "From 5 women and 4 men, a 4-person team is selected uniformly. What is the probability it contains at least 3 women?",
+   "answer": "5/14",
+   "explanation": "Favourable teams = C(5, 3)C(4, 1)+C(5, 4)=45. Total C(9, 4)=126. Probability 45/126=5/14.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-038",
+   "genreId": "quant",
+   "primarySkill": "CAT-style geometry",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "A right triangle has hypotenuse 25 and area 150. Find the sum of its two perpendicular sides.",
+   "answer": "35",
+   "explanation": "If legs are a, b, then ab=300 and a²+b²=625. Thus (a+b)²=1225, so a+b=35.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-039",
+   "genreId": "quant",
+   "primarySkill": "CAT-style algebra",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "Positive real numbers x, y satisfy x+y=10. Find the maximum possible value of xy(x−y)².",
+   "answer": "625",
+   "explanation": "Let z=xy, with 0<z≤25. Since(x−y)²=100−4z, the expression is 100z−4z²=625−4(z−12.5)². Its maximum 625 occurs atz=12.5, which is feasible for positive roots with sum 10.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "QUA-040",
+   "genreId": "quant",
+   "primarySkill": "CAT-style remainders",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "Find the last two digits of 7^2026. Enter an integer from 0 to 99.",
+   "answer": "49",
+   "explanation": "7⁴=2401 is congruent to 1 modulo 100. Since 2026 leaves remainder 2 on division by 4, the last two digits equal those of 7².",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-001",
+   "genreId": "logic",
+   "primarySkill": "Number analogy",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "Under the relation n maps to n², complete 4:16 :: 7:?.",
+   "answer": "49",
+   "explanation": "Apply the stated square rule: 7²=49.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-002",
+   "genreId": "logic",
+   "primarySkill": "Classification",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "Which is not prime: 11, 13, 15, 17?",
+   "answer": "15",
+   "explanation": "15=3×5; the other listed numbers are prime.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "LOG-002-c1",
+     "label": "11"
+    },
+    {
+     "id": "LOG-002-c2",
+     "label": "13"
+    },
+    {
+     "id": "LOG-002-c3",
+     "label": "15"
+    },
+    {
+     "id": "LOG-002-c4",
+     "label": "17"
+    }
+   ]
+  },
+  {
+   "id": "LOG-003",
+   "genreId": "logic",
+   "primarySkill": "Blood relationships",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "Mira is the mother of Dev. Dev is the father of Tara. How is Mira related to Tara?",
+   "answer": "grandmother",
+   "explanation": "Mira is the mother of Tara's father.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-004",
+   "genreId": "logic",
+   "primarySkill": "Blood relationships",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "Asha and Ravi have the same two biological parents. Asha is female. How is Asha related to Ravi?",
+   "answer": "sister",
+   "explanation": "Sharing both parents makes them siblings; Asha is a sister.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-005",
+   "genreId": "logic",
+   "primarySkill": "Coding-decoding",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "Shift every letter one place forward, with Z wrapping to A. Encode CAMP.",
+   "answer": "DBNQ",
+   "explanation": "C→D, A→B, M→N, P→Q.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-006",
+   "genreId": "logic",
+   "primarySkill": "Coding-decoding",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "Use A=1 through Z=26. What is the sum of the letter values in MAP?",
+   "answer": "30",
+   "explanation": "M=13, A=1 and P=16; total 30.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-007",
+   "genreId": "logic",
+   "primarySkill": "Direction sense",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "A player walks 3 km north and 4 km east. Find the straight-line distance from the start in km.",
+   "answer": "5",
+   "explanation": "Perpendicular legs 3 and 4 give √(9+16)=5.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-008",
+   "genreId": "logic",
+   "primarySkill": "Direction sense",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "You face north, turn right, then turn left. Which direction are you facing?",
+   "answer": "north",
+   "explanation": "Right turns north to east; left returns east to north.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-009",
+   "genreId": "logic",
+   "primarySkill": "Ranking",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "Neha is 6th from the top in a line of 20. What is her rank from the bottom?",
+   "answer": "15",
+   "explanation": "Bottom rank = 20−6+1=15.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-010",
+   "genreId": "logic",
+   "primarySkill": "Series",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "The rule is to add the next positive even number: 2, 4, 8, 14, 22, ?.",
+   "answer": "32",
+   "explanation": "Differences are 2, 4, 6, 8; next difference is 10.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-011",
+   "genreId": "logic",
+   "primarySkill": "Deduction",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "All orchids are plants. No plants are metal. Must it follow that no orchids are metal? Answer yes or no.",
+   "answer": "yes",
+   "explanation": "Orchids are a subset of plants, which do not overlap metal.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "LOG-011-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "LOG-011-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "LOG-012",
+   "genreId": "logic",
+   "primarySkill": "Classification",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "Under the rule 'has four sides', which fails: square, rectangle, rhombus, triangle?",
+   "answer": "triangle",
+   "explanation": "A triangle has three sides; the others have four.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "LOG-012-c1",
+     "label": "square"
+    },
+    {
+     "id": "LOG-012-c2",
+     "label": "rectangle"
+    },
+    {
+     "id": "LOG-012-c3",
+     "label": "rhombus"
+    },
+    {
+     "id": "LOG-012-c4",
+     "label": "triangle"
+    }
+   ]
+  },
+  {
+   "id": "LOG-013",
+   "genreId": "logic",
+   "primarySkill": "Blood relationships",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "K is L's father. L is M's mother. N is M's brother and shares both parents with M. How is K related to N?",
+   "answer": "maternal grandfather",
+   "explanation": "L is also N's mother; K is the father of N's mother.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-014",
+   "genreId": "logic",
+   "primarySkill": "Blood relationships",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "P is the brother of Q. Q is the mother of R. P and Q share both parents. How is P related to R?",
+   "answer": "maternal uncle",
+   "explanation": "P is the brother of R's mother.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-015",
+   "genreId": "logic",
+   "primarySkill": "Coding-decoding",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 8,
+   "prompt": "Reverse a word, then shift each letter forward by 2, wrapping after Z. Encode MAP.",
+   "answer": "RCO",
+   "explanation": "MAP reverses to PAM; shifting gives RCO.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-016",
+   "genreId": "logic",
+   "primarySkill": "Coded relationships",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 8,
+   "prompt": "X+Y means X is the mother of Y; X−Y means X is the brother of Y. In A+B−C, what is A's relation to C, assuming B and C share both parents?",
+   "answer": "mother",
+   "explanation": "A is B's mother, and B and C share both parents, so A is also C's mother.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-017",
+   "genreId": "logic",
+   "primarySkill": "Ranking",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 9,
+   "prompt": "A runner is 9th from the front and 13th from the back. How many runners are in the line?",
+   "answer": "21",
+   "explanation": "Add the ranks and subtract the runner counted twice: 9+13−1.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-018",
+   "genreId": "logic",
+   "primarySkill": "Linear arrangement",
+   "difficulty": "medium",
+   "answerFormat": "order",
+   "expectedSeconds": 100,
+   "level": 9,
+   "prompt": "Arrange A, B, C, D left to right. A is immediately left of B; C immediately right of B; D is left of A.",
+   "answer": "D,A,B,C",
+   "explanation": "The consecutive block ABC must follow D, so DABC is the only arrangement.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-019",
+   "genreId": "logic",
+   "primarySkill": "Scheduling",
+   "difficulty": "medium",
+   "answerFormat": "order",
+   "expectedSeconds": 100,
+   "level": 10,
+   "prompt": "Four talks A, B, C, D use four successive slots. B is after A; C is immediately before A; D is last. Give the order.",
+   "answer": "C,A,B,D",
+   "explanation": "D occupies slot 4. C, A must be consecutive and B after A, forcing C, A, B into slots 1–3.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-020",
+   "genreId": "logic",
+   "primarySkill": "Statements and conclusions",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 10,
+   "prompt": "All rangers are trained. Some trained people are swimmers. Does 'some rangers are swimmers' necessarily follow? Answer yes or no.",
+   "answer": "no",
+   "explanation": "The trained swimmers may all be non-rangers; overlap is not guaranteed.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "LOG-020-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "LOG-020-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "LOG-021",
+   "genreId": "logic",
+   "primarySkill": "Syllogisms",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "Some artists are climbers. All climbers are fit. Must some artists be fit? Answer yes or no.",
+   "answer": "yes",
+   "explanation": "The artists who are climbers belong to the fit group.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "LOG-021-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "LOG-021-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "LOG-022",
+   "genreId": "logic",
+   "primarySkill": "Venn diagrams",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "A group has 60 people. 35 like tea, 30 like coffee and 15 like both. How many like exactly one of the two?",
+   "answer": "35",
+   "explanation": "Tea only=20 and coffee only=15; sum 35.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-023",
+   "genreId": "logic",
+   "primarySkill": "Three-set Venn",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "In three sets A, B, C, sizes are 30, 25, 20. Pairwise intersections, including the triple intersection, are 10, 8, 7. The triple intersection has size 3. Find the union size.",
+   "answer": "53",
+   "explanation": "Inclusion–exclusion: 30+25+20−10−8−7+3=53.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-024",
+   "genreId": "logic",
+   "primarySkill": "Conditional logic",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "If the gate opens, the lamp glows. The lamp does not glow. Can the gate be open? Answer yes or no.",
+   "answer": "no",
+   "explanation": "The contrapositive rules out an open gate when the lamp is off.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "LOG-024-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "LOG-024-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "LOG-025",
+   "genreId": "logic",
+   "primarySkill": "Conditional logic",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "If it rains, the path becomes wet. The path is wet. Is rain logically guaranteed? Answer yes or no.",
+   "answer": "no",
+   "explanation": "Another cause, such as a sprinkler, could wet the path. Affirming the consequent is invalid.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "LOG-025-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "LOG-025-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "LOG-026",
+   "genreId": "logic",
+   "primarySkill": "Series",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "Two interleaved sequences each increase by 2: 2, 9, 4, 11, 6, 13, ?.",
+   "answer": "8",
+   "explanation": "Odd-position terms are 2, 4, 6, 8; even-position terms are 9, 11, 13.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-027",
+   "genreId": "logic",
+   "primarySkill": "Letter series",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "Positions in the alphabet increase by 2, 3, 4, 5: A, C, F, J, O, ?.",
+   "answer": "U",
+   "explanation": "Letter positions are 1, 3, 6, 10, 15; add 6 to reach 21=U.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-028",
+   "genreId": "logic",
+   "primarySkill": "Direction sense",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "Walk 5 km east, 3 km north, 5 km west, then 1 km south. Which direction is your final position from your start?",
+   "answer": "north",
+   "explanation": "East and west cancel; net displacement is 2 km north.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-029",
+   "genreId": "logic",
+   "primarySkill": "Rule application",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "Entry requires both a badge and a helmet. Uma has a badge but no helmet. Is she eligible? Answer yes or no.",
+   "answer": "no",
+   "explanation": "Both conditions are necessary; the helmet condition fails.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "LOG-029-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "LOG-029-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "LOG-030",
+   "genreId": "logic",
+   "primarySkill": "Classification",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "Classify by being a perfect cube. Which fails: 8, 27, 64, 100, 125?",
+   "answer": "100",
+   "explanation": "The others are 2³, 3³, 4³, 5³. 100 is not an integer cube.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "LOG-030-c1",
+     "label": "8"
+    },
+    {
+     "id": "LOG-030-c2",
+     "label": "27"
+    },
+    {
+     "id": "LOG-030-c3",
+     "label": "64"
+    },
+    {
+     "id": "LOG-030-c4",
+     "label": "100"
+    },
+    {
+     "id": "LOG-030-c5",
+     "label": "125"
+    }
+   ]
+  },
+  {
+   "id": "LOG-031",
+   "genreId": "logic",
+   "primarySkill": "Relations",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "A is older than B; C is younger than B; D is older than A. Who is oldest among A, B, C, D?",
+   "answer": "D",
+   "explanation": "The strict order is D>A>B>C.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-032",
+   "genreId": "logic",
+   "primarySkill": "Truth constraints",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "Exactly one of A, B, C has a key. A says 'B has it'; B says 'I do not have it'; C says 'A does not have it'. Exactly one statement is true. Who has the key?",
+   "answer": "A",
+   "explanation": "If A has it, the statements are false, true, false. If B has it, two are true; if C has it, two are true. Only A fits.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-033",
+   "genreId": "logic",
+   "primarySkill": "Constraint arrangement",
+   "difficulty": "hard",
+   "answerFormat": "order",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "Arrange A, B, C, D, E left to right. C is in the middle. A is immediately left of D. B is somewhere right of E. D is not at either end.",
+   "answer": "A,D,C,E,B",
+   "explanation": "AD can only occupy 1–2: 2–3 and 3–4 conflict with C, while 4–5 puts D at an end. E, B fill 4–5 in that order.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-034",
+   "genreId": "logic",
+   "primarySkill": "CAT-style allocation",
+   "difficulty": "hard",
+   "answerFormat": "text",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "Three guides A, B, C each visit one of X, Y, Z on a different day Mon, Tue, Wed. A visits neither X nor Z and goes before the X visitor. C goes Wednesday and does not visit X. Who visits X?",
+   "answer": "B",
+   "explanation": "A must visit Y. C cannot visit X and cannot share Y, so visits Z. B therefore visits X.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-035",
+   "genreId": "logic",
+   "primarySkill": "Conditional constraints",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "Three switches A, B, C each have states on/off. A on implies B off; B on implies C on; exactly two switches are on. How many configurations satisfy all conditions?",
+   "answer": "2",
+   "explanation": "Possible two-on states are AB, AC, BC. AB violates A's implication; AC and BC satisfy the rules.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-036",
+   "genreId": "logic",
+   "primarySkill": "Blood relationships",
+   "difficulty": "hard",
+   "answerFormat": "text",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "R is S's daughter. S is T's brother. T is U's mother. S and T share both parents. How is R related by blood to U?",
+   "answer": "first cousin",
+   "explanation": "R and U are children of siblings S and T, so they are first cousins.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-037",
+   "genreId": "logic",
+   "primarySkill": "Insufficient information",
+   "difficulty": "hard",
+   "answerFormat": "select",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "All A are B. Some B are C. No C are D. Is 'no A are D' guaranteed? Answer yes or no.",
+   "answer": "no",
+   "explanation": "The A members may be B members outside C, and those can also be D.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "LOG-037-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "LOG-037-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "LOG-038",
+   "genreId": "logic",
+   "primarySkill": "CAT-style ranking",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "In a line, A is 7th from the left and B is 9th from the right. They swap places; A becomes 15th from the left. How many people are in the line?",
+   "answer": "23",
+   "explanation": "B originally occupies position 15 from left and 9 from right, so total =15+9−1=23.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-039",
+   "genreId": "logic",
+   "primarySkill": "CAT-style counting",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "Five distinct tasks A, B, C, D, E are ordered. A must precede B, and C must precede D. E is unrestricted. How many orders are possible?",
+   "answer": "30",
+   "explanation": "Of 5!=120 orders, half satisfy A<B and independently half satisfy C<D. Thus 120/4=30.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "LOG-040",
+   "genreId": "logic",
+   "primarySkill": "Uniqueness deduction",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "A, B, C have distinct positive integer scores totalling 18. A>B>C and A=2C. What is B's score?",
+   "answer": "6",
+   "explanation": "Substitute B=18−3C. Strict inequalities imply 18/5<C<18/4, so the only integer C is 4. Then A=8 and B=6.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-001",
+   "genreId": "data",
+   "primarySkill": "Table totals",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "A supply table lists rice 24 kg, lentils 16 kg and oats 10 kg. Find the total mass in kg.",
+   "answer": "50",
+   "explanation": "Add 24+16+10=50. All entries use the same unit.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-002",
+   "genreId": "data",
+   "primarySkill": "Table comparison",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "Water collected in litres: East=45, West=60, North=55. Which station collected most?",
+   "answer": "West",
+   "explanation": "Compare the three values; 60 is largest.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-003",
+   "genreId": "data",
+   "primarySkill": "Bar chart reading",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "Bar heights are Mon=12, Tue=18, Wed=15 visitors. How many more visitors came Tuesday than Monday?",
+   "answer": "6",
+   "explanation": "Difference =18−12.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-004",
+   "genreId": "data",
+   "primarySkill": "Line chart reading",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "A trail counter records 30, 35, 32, 40 for days 1–4. What is the day-4 count?",
+   "answer": "40",
+   "explanation": "Read the fourth value; no growth calculation is required.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-005",
+   "genreId": "data",
+   "primarySkill": "Pie shares",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "A ₹2, 000 budget allocates 30% to food. Find the food budget in rupees.",
+   "answer": "600",
+   "explanation": "2000×0.30=600.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-006",
+   "genreId": "data",
+   "primarySkill": "Pie angles",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "A pie slice occupies 90 degrees. What percentage of the whole does it represent?",
+   "answer": "25",
+   "explanation": "90/360×100=25%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-007",
+   "genreId": "data",
+   "primarySkill": "Table averages",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "Three camps record 14, 18 and 22 tents. Find the mean number of tents per camp.",
+   "answer": "18",
+   "explanation": "Total 54 divided by 3 gives 18.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-008",
+   "genreId": "data",
+   "primarySkill": "Category share",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "Of 80 visitors, 20 choose the waterfall trail. What percentage is this?",
+   "answer": "25",
+   "explanation": "20/80×100=25%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-009",
+   "genreId": "data",
+   "primarySkill": "Change",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "A station serves 120 meals on Friday and 150 on Saturday. Find the absolute increase in meals.",
+   "answer": "30",
+   "explanation": "150−120=30.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-010",
+   "genreId": "data",
+   "primarySkill": "Ratios from data",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "A table lists 18 kayaks and 12 rafts. Give kayaks divided by rafts as a simplified fraction.",
+   "answer": "3/2",
+   "explanation": "18/12 simplifies to 3/2.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-011",
+   "genreId": "data",
+   "primarySkill": "Missing total",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "Total attendance is 95. Morning attendance is 42. Every attendee belongs to exactly one of morning or evening. Find evening attendance.",
+   "answer": "53",
+   "explanation": "Evening =95−42=53.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-012",
+   "genreId": "data",
+   "primarySkill": "Units",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "A table reports water use as 2.5 kilolitres. Convert it to litres.",
+   "answer": "2500",
+   "explanation": "One kilolitre is 1000 litres; 2.5×1000=2500.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-013",
+   "genreId": "data",
+   "primarySkill": "Percentage growth",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "Monthly orders rise from 240 to 300. Find the percentage growth using the first month as base.",
+   "answer": "25",
+   "explanation": "Growth =60/240×100=25%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-014",
+   "genreId": "data",
+   "primarySkill": "Weighted conversion",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "Station A has 200 visitors and 20 signups; B has 100 visitors and 30 signups. Find the combined signup rate as a percentage.",
+   "answer": "50/3",
+   "explanation": "Total signups 50 out of 300 visitors gives 16⅔%. Do not average 10% and 30% directly.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-015",
+   "genreId": "data",
+   "primarySkill": "Revenue",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 8,
+   "prompt": "A shop sells 40 torches at ₹150 and 25 ropes at ₹240. Find total revenue in rupees.",
+   "answer": "12000",
+   "explanation": "Torches bring 6000 and ropes bring 6000; total 12000.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-016",
+   "genreId": "data",
+   "primarySkill": "Profit from table",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 8,
+   "prompt": "Two camps have revenues ₹8, 000 and ₹12, 000, and costs ₹6, 000 and ₹9, 000 respectively. Find combined profit as a percentage of combined revenue.",
+   "answer": "25",
+   "explanation": "Combined profit 5000 divided by revenue 20000 =25%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-017",
+   "genreId": "data",
+   "primarySkill": "Growth versus share",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 9,
+   "prompt": "A has 80 customers and B has 120. Next month A grows 25% and B grows 50%. What percentage of next month's total belongs to A?",
+   "answer": "250/7",
+   "explanation": "New counts are 100 and 180. A share =100/280×100=250/7%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-018",
+   "genreId": "data",
+   "primarySkill": "Missing cell",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 9,
+   "prompt": "A table has rows A=(12, 18, x), B=(20, 15, 25). Both row totals are equal. Find x.",
+   "answer": "30",
+   "explanation": "Row B totals 60. Therefore 12+18+x=60, so x=30.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-019",
+   "genreId": "data",
+   "primarySkill": "Weighted mean",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 10,
+   "prompt": "Grade A has 30 students with mean 70; Grade B has 20 with mean 85. Find the combined mean.",
+   "answer": "76",
+   "explanation": "Weighted total=2100+1700=3800; students=50; mean=76.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-020",
+   "genreId": "data",
+   "primarySkill": "Median",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 10,
+   "prompt": "Daily arrivals are 14, 8, 20, 11, 17. Find the median.",
+   "answer": "14",
+   "explanation": "Sorted data: 8, 11, 14, 17, 20. The central value is 14.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-021",
+   "genreId": "data",
+   "primarySkill": "Index numbers",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "A price index is 100 in the base year and 125 now. An item following this index cost ₹80 in the base year. Find its current price.",
+   "answer": "100",
+   "explanation": "Multiply 80 by 125/100.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-022",
+   "genreId": "data",
+   "primarySkill": "Stacked bars",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "A stacked bar contains 48 completed and 12 cancelled orders. What percentage of all orders were cancelled?",
+   "answer": "20",
+   "explanation": "Total orders=60; cancelled share=12/60×100.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-023",
+   "genreId": "data",
+   "primarySkill": "Funnel",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "Of 1000 visitors, 400 add to cart and 100 purchase. What is purchase conversion among cart users, as a percentage?",
+   "answer": "25",
+   "explanation": "The requested denominator is cart users:100/400×100.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-024",
+   "genreId": "data",
+   "primarySkill": "Rate denominators",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "A campaign sends 800 messages, delivers 640 and gets 64 clicks. Find clicks as a percentage of delivered messages.",
+   "answer": "10",
+   "explanation": "Use delivered messages as denominator:64/640×100.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-025",
+   "genreId": "data",
+   "primarySkill": "Caselet equations",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "Three camps have 190 visitors in total. B has twice A; C has 30 more than A. Find B's visitors.",
+   "answer": "80",
+   "explanation": "Let A=x. Then x+2x+x+30=190, so x=40 and B=80.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-026",
+   "genreId": "data",
+   "primarySkill": "Capacity utilisation",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "Two boats have capacities 40 and 60, and carry 30 and 45 people. Find overall seat utilisation as a percentage.",
+   "answer": "75",
+   "explanation": "Occupied seats=75; total seats=100; utilisation=75%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-027",
+   "genreId": "data",
+   "primarySkill": "Reverse growth",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "This month's revenue is ₹66, 000 after 10% growth. Find last month's revenue.",
+   "answer": "60000",
+   "explanation": "Previous revenue =66000/1.1.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-028",
+   "genreId": "data",
+   "primarySkill": "Multi-period growth",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "Visitors start at 200, grow 20%, then fall 25%. Find the final visitor count.",
+   "answer": "180",
+   "explanation": "200×1.2×0.75=180.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-029",
+   "genreId": "data",
+   "primarySkill": "Break-even chart",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "A stall has fixed cost ₹1, 200, variable cost ₹30 per unit and price ₹50 per unit. At what unit count does it break even?",
+   "answer": "60",
+   "explanation": "Contribution per unit=20. Required units=1200/20.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-030",
+   "genreId": "data",
+   "primarySkill": "Three-set data",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "Among 100 users, 60 use A, 45 use B, and 25 use both. How many use neither?",
+   "answer": "20",
+   "explanation": "Union=60+45−25=80; neither=20.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-031",
+   "genreId": "data",
+   "primarySkill": "Growth ranking",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "Revenues change A:100→130, B:200→250, C:80→104. Which has the greatest percentage growth? Give all tied labels alphabetically.",
+   "answer": "A,C",
+   "explanation": "A grows 30%, B25%, C30%; A and C tie.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-032",
+   "genreId": "data",
+   "primarySkill": "Data sufficiency",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "Is average spend above ₹200? Statement I: total spend is ₹12, 000. Statement II: there are 50 customers, all included in that spend. Options: I alone; II alone; both together; neither even together.",
+   "answer": "both together",
+   "explanation": "Neither alone determines the mean; together they give 12000/50=240.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "DAT-032-c1",
+     "label": "I alone"
+    },
+    {
+     "id": "DAT-032-c2",
+     "label": "II alone"
+    },
+    {
+     "id": "DAT-032-c3",
+     "label": "both together"
+    },
+    {
+     "id": "DAT-032-c4",
+     "label": "neither even together"
+    }
+   ]
+  },
+  {
+   "id": "DAT-033",
+   "genreId": "data",
+   "primarySkill": "CAT-style weighted rates",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "Week 1: A converts 8 of 10 visitors, B 20 of 100. Week 2: A converts 70 of 100, B 1 of 10. Both station rates fall. Find the aggregate rate increase in percentage points.",
+   "answer": "430/11",
+   "explanation": "Week 1=28/110, Week 2=71/110. Difference=(43/110)×100=430/11 percentage points. Changing traffic weights causes the reversal.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-034",
+   "genreId": "data",
+   "primarySkill": "CAT-style missing table",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "Row totals are A=70, B=80, C=90. Column totals are X=100, Y=140. Known X entries: A=20, C=45. Find B's Y entry.",
+   "answer": "45",
+   "explanation": "B's X=100−20−45=35; B's Y=80−35=45.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-035",
+   "genreId": "data",
+   "primarySkill": "CAT-style set caselet",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "Of 120 people, 70 use A, 65 use B, 50 use C; pairwise overlaps including all-three are AB=35, AC=30, BC=25. Exactly 10 use none. How many use all three?",
+   "answer": "15",
+   "explanation": "Union=110=70+65+50−35−30−25+t=95+t, so t=15.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-036",
+   "genreId": "data",
+   "primarySkill": "CAT-style weighted growth",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "A and B together earn ₹300, 000. Next year A grows 20% and B grows 50%, producing total ₹402, 000. Find A's initial revenue in rupees.",
+   "answer": "160000",
+   "explanation": "A+B=300000;1.2A+1.5B=402000. Substitute B to obtain 0.3A=48000, so A=160000.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-037",
+   "genreId": "data",
+   "primarySkill": "CAT-style allocation table",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "A workshop makes X and Y. X uses 2 wood and 1 metal; Y uses 1 wood and 2 metal. Available wood=10, metal=8. Integer quantities only, both resources cannot be exceeded. What is the maximum total units?",
+   "answer": "6",
+   "explanation": "Adding constraints gives 3(X+Y)≤18, hence ≤6. X=4, Y=2 uses 10 wood and 8 metal, achieving 6.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-038",
+   "genreId": "data",
+   "primarySkill": "CAT-style grouped average",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "Three equal-sized groups have means a, b, c. The first two combined average 50, the last two 65, and all three 60. Find b.",
+   "answer": "50",
+   "explanation": "a+b=100, b+c=130, a+b+c=180. Adding first two gives 180+b=230, hence b=50.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-039",
+   "genreId": "data",
+   "primarySkill": "CAT-style funnel constraints",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "There are 1000 visitors. Exactly 40% add to cart. Of cart users, 30% buy. Of non-cart users, 5% buy directly. What percentage of buyers were cart users?",
+   "answer": "80",
+   "explanation": "Cart buyers=120; direct buyers=30. Requested share=120/150×100=80%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "DAT-040",
+   "genreId": "data",
+   "primarySkill": "CAT-style cohort accounting",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "A service starts with 400 users. In each of two months, exactly 75% of every existing acquisition cohort remains, then 100 new users join at month end. What percentage of users present after month 2 belong to the original cohort?",
+   "answer": "225/4",
+   "explanation": "Original survivors=400×0.75²=225. Month 1 recruits contribute 75 and month 2 recruits 100. Total 400. Original share=225/400×100=56.25%=225/4%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "VER-001",
+   "genreId": "verbal",
+   "primarySkill": "Tool-function analogy",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "Compass is to direction as thermometer is to: temperature, distance, pressure, speed.",
+   "answer": "temperature",
+   "explanation": "A compass indicates direction; a thermometer measures temperature.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-001-c1",
+     "label": "temperature"
+    },
+    {
+     "id": "VER-001-c2",
+     "label": "distance"
+    },
+    {
+     "id": "VER-001-c3",
+     "label": "pressure"
+    },
+    {
+     "id": "VER-001-c4",
+     "label": "speed"
+    }
+   ]
+  },
+  {
+   "id": "VER-002",
+   "genreId": "verbal",
+   "primarySkill": "Worker-tool analogy",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "Carpenter is to saw as tailor is to: needle, shovel, compass, telescope.",
+   "answer": "needle",
+   "explanation": "Each worker uses the paired tool in their work.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-002-c1",
+     "label": "needle"
+    },
+    {
+     "id": "VER-002-c2",
+     "label": "shovel"
+    },
+    {
+     "id": "VER-002-c3",
+     "label": "compass"
+    },
+    {
+     "id": "VER-002-c4",
+     "label": "telescope"
+    }
+   ]
+  },
+  {
+   "id": "VER-003",
+   "genreId": "verbal",
+   "primarySkill": "Part-whole analogy",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "Page is to book as leaf is to: tree, root, flower, seed.",
+   "answer": "tree",
+   "explanation": "A page is part of a book; a leaf is part of a tree.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-003-c1",
+     "label": "tree"
+    },
+    {
+     "id": "VER-003-c2",
+     "label": "root"
+    },
+    {
+     "id": "VER-003-c3",
+     "label": "flower"
+    },
+    {
+     "id": "VER-003-c4",
+     "label": "seed"
+    }
+   ]
+  },
+  {
+   "id": "VER-004",
+   "genreId": "verbal",
+   "primarySkill": "Antonym analogy",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "Expand is to contract as ascend is to: descend, extend, enlarge, rise.",
+   "answer": "descend",
+   "explanation": "Each pair consists of opposite actions.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-004-c1",
+     "label": "descend"
+    },
+    {
+     "id": "VER-004-c2",
+     "label": "extend"
+    },
+    {
+     "id": "VER-004-c3",
+     "label": "enlarge"
+    },
+    {
+     "id": "VER-004-c4",
+     "label": "rise"
+    }
+   ]
+  },
+  {
+   "id": "VER-005",
+   "genreId": "verbal",
+   "primarySkill": "Classification",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "Choose the item that is not a musical instrument: flute, violin, clarinet, easel.",
+   "answer": "easel",
+   "explanation": "An easel supports a painting; the others produce music.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-005-c1",
+     "label": "flute"
+    },
+    {
+     "id": "VER-005-c2",
+     "label": "violin"
+    },
+    {
+     "id": "VER-005-c3",
+     "label": "clarinet"
+    },
+    {
+     "id": "VER-005-c4",
+     "label": "easel"
+    }
+   ]
+  },
+  {
+   "id": "VER-006",
+   "genreId": "verbal",
+   "primarySkill": "Classification",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "Group by being a unit of time. Which fails: second, minute, metre, hour?",
+   "answer": "metre",
+   "explanation": "Metre measures length; the others measure time.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-006-c1",
+     "label": "second"
+    },
+    {
+     "id": "VER-006-c2",
+     "label": "minute"
+    },
+    {
+     "id": "VER-006-c3",
+     "label": "metre"
+    },
+    {
+     "id": "VER-006-c4",
+     "label": "hour"
+    }
+   ]
+  },
+  {
+   "id": "VER-007",
+   "genreId": "verbal",
+   "primarySkill": "Vocabulary in context",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "'Water was scarce, so the team rationed it.' Scarce means: limited, polluted, abundant, warm.",
+   "answer": "limited",
+   "explanation": "Rationing is explained by limited supply, not temperature or cleanliness.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-007-c1",
+     "label": "limited"
+    },
+    {
+     "id": "VER-007-c2",
+     "label": "polluted"
+    },
+    {
+     "id": "VER-007-c3",
+     "label": "abundant"
+    },
+    {
+     "id": "VER-007-c4",
+     "label": "warm"
+    }
+   ]
+  },
+  {
+   "id": "VER-008",
+   "genreId": "verbal",
+   "primarySkill": "Vocabulary in context",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "'The guide gave a concise briefing, covering the essentials in two minutes.' Concise means: brief and clear, confusing, inaccurate, repeated.",
+   "answer": "brief and clear",
+   "explanation": "The short duration and essential coverage establish the intended meaning.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-008-c1",
+     "label": "brief and clear"
+    },
+    {
+     "id": "VER-008-c2",
+     "label": "confusing"
+    },
+    {
+     "id": "VER-008-c3",
+     "label": "inaccurate"
+    },
+    {
+     "id": "VER-008-c4",
+     "label": "repeated"
+    }
+   ]
+  },
+  {
+   "id": "VER-009",
+   "genreId": "verbal",
+   "primarySkill": "Sentence logic",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "Choose the connector: 'The path was steep, ___ the hikers continued.' Options: yet, because, unless, therefore.",
+   "answer": "yet",
+   "explanation": "The second clause contrasts with the obstacle in the first.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-009-c1",
+     "label": "yet"
+    },
+    {
+     "id": "VER-009-c2",
+     "label": "because"
+    },
+    {
+     "id": "VER-009-c3",
+     "label": "unless"
+    },
+    {
+     "id": "VER-009-c4",
+     "label": "therefore"
+    }
+   ]
+  },
+  {
+   "id": "VER-010",
+   "genreId": "verbal",
+   "primarySkill": "Sentence logic",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "Choose the connector: 'The bridge was unsafe; ___, the team used the boat.' Options: therefore, however, although, meanwhile.",
+   "answer": "therefore",
+   "explanation": "Taking the boat is a consequence of the unsafe bridge.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-010-c1",
+     "label": "therefore"
+    },
+    {
+     "id": "VER-010-c2",
+     "label": "however"
+    },
+    {
+     "id": "VER-010-c3",
+     "label": "although"
+    },
+    {
+     "id": "VER-010-c4",
+     "label": "meanwhile"
+    }
+   ]
+  },
+  {
+   "id": "VER-011",
+   "genreId": "verbal",
+   "primarySkill": "Literal comprehension",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "Passage: 'The camp opens at 7 am. Equipment rental starts an hour later.' At what morning hour does rental start?",
+   "answer": "8",
+   "explanation": "One hour after 7 am is 8 am.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "VER-012",
+   "genreId": "verbal",
+   "primarySkill": "Literal comprehension",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "'All visitors must register before entering the reserve.' Does the passage allow entry before registration? Answer yes or no.",
+   "answer": "no",
+   "explanation": "Registration is explicitly a prerequisite to entry.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-012-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "VER-012-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "VER-013",
+   "genreId": "verbal",
+   "primarySkill": "Cause-effect analogy",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "Erosion is to soil loss as evaporation is to: liquid loss, seed growth, rock formation, cloud freezing.",
+   "answer": "liquid loss",
+   "explanation": "Both pair a process with the material loss it produces.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-013-c1",
+     "label": "liquid loss"
+    },
+    {
+     "id": "VER-013-c2",
+     "label": "seed growth"
+    },
+    {
+     "id": "VER-013-c3",
+     "label": "rock formation"
+    },
+    {
+     "id": "VER-013-c4",
+     "label": "cloud freezing"
+    }
+   ]
+  },
+  {
+   "id": "VER-014",
+   "genreId": "verbal",
+   "primarySkill": "Degree analogy",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "Warm is to hot as pleased is to: delighted, anxious, bored, calm.",
+   "answer": "delighted",
+   "explanation": "Hot intensifies warm; delighted intensifies pleased.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-014-c1",
+     "label": "delighted"
+    },
+    {
+     "id": "VER-014-c2",
+     "label": "anxious"
+    },
+    {
+     "id": "VER-014-c3",
+     "label": "bored"
+    },
+    {
+     "id": "VER-014-c4",
+     "label": "calm"
+    }
+   ]
+  },
+  {
+   "id": "VER-015",
+   "genreId": "verbal",
+   "primarySkill": "Vocabulary nuance",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 8,
+   "prompt": "'The evidence was tentative, so the researchers avoided a firm claim.' Tentative means: provisional, fabricated, decisive, irrelevant.",
+   "answer": "provisional",
+   "explanation": "The lack of a firm claim indicates the evidence is not yet conclusive.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-015-c1",
+     "label": "provisional"
+    },
+    {
+     "id": "VER-015-c2",
+     "label": "fabricated"
+    },
+    {
+     "id": "VER-015-c3",
+     "label": "decisive"
+    },
+    {
+     "id": "VER-015-c4",
+     "label": "irrelevant"
+    }
+   ]
+  },
+  {
+   "id": "VER-016",
+   "genreId": "verbal",
+   "primarySkill": "Contrast",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 8,
+   "prompt": "'Although the new route was shorter, it took longer to cross.' Which is supported: distance alone did not determine travel time; the route was longer; the hikers moved faster; the route was closed.",
+   "answer": "distance alone did not determine travel time",
+   "explanation": "A shorter route taking longer demonstrates that another factor affected time.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-016-c1",
+     "label": "distance alone did not determine travel time"
+    },
+    {
+     "id": "VER-016-c2",
+     "label": "the route was longer"
+    },
+    {
+     "id": "VER-016-c3",
+     "label": "the hikers moved faster"
+    },
+    {
+     "id": "VER-016-c4",
+     "label": "the route was closed"
+    }
+   ]
+  },
+  {
+   "id": "VER-017",
+   "genreId": "verbal",
+   "primarySkill": "Sentence ordering",
+   "difficulty": "medium",
+   "answerFormat": "order",
+   "expectedSeconds": 100,
+   "level": 9,
+   "prompt": "Order the sentences: A=Finally, they crossed the repaired bridge. B=First, they inspected the damaged bridge. C=Then, they replaced the broken boards.",
+   "answer": "B,C,A",
+   "explanation": "Inspection precedes repair, which precedes crossing. The transition words confirm the order.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "VER-018",
+   "genreId": "verbal",
+   "primarySkill": "Paragraph ordering",
+   "difficulty": "medium",
+   "answerFormat": "order",
+   "expectedSeconds": 100,
+   "level": 9,
+   "prompt": "Order: A=This stored energy powers the lamp at night. B=Solar panels capture energy during daylight. C=A battery stores the captured energy.",
+   "answer": "B,C,A",
+   "explanation": "Capture comes first, storage second, use third; 'this stored energy' refers back to C.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "VER-019",
+   "genreId": "verbal",
+   "primarySkill": "Conclusion versus evidence",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 10,
+   "prompt": "'The last three buses were full; therefore, the route needs more capacity.' Which is the conclusion: buses were full; route needs more capacity; three buses were observed; no route exists.",
+   "answer": "route needs more capacity",
+   "explanation": "The statement after 'therefore' is the claim supported by the observations.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-019-c1",
+     "label": "buses were full"
+    },
+    {
+     "id": "VER-019-c2",
+     "label": "route needs more capacity"
+    },
+    {
+     "id": "VER-019-c3",
+     "label": "three buses were observed"
+    },
+    {
+     "id": "VER-019-c4",
+     "label": "no route exists"
+    }
+   ]
+  },
+  {
+   "id": "VER-020",
+   "genreId": "verbal",
+   "primarySkill": "Necessary assumption",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 10,
+   "prompt": "A camp plans to replace printed maps with a phone app for every visitor. Which is a necessary feasibility assumption: visitors can access a compatible device; apps are always popular; paper costs nothing; every visitor enjoys hiking.",
+   "answer": "visitors can access a compatible device",
+   "explanation": "Replacing maps for everyone requires access to the proposed replacement.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-020-c1",
+     "label": "visitors can access a compatible device"
+    },
+    {
+     "id": "VER-020-c2",
+     "label": "apps are always popular"
+    },
+    {
+     "id": "VER-020-c3",
+     "label": "paper costs nothing"
+    },
+    {
+     "id": "VER-020-c4",
+     "label": "every visitor enjoys hiking"
+    }
+   ]
+  },
+  {
+   "id": "VER-021",
+   "genreId": "verbal",
+   "primarySkill": "Strengthen",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "Claim: 'New signs reduced wrong turns.' Which most strengthens it: comparable trails without new signs had no reduction; more visitors wore hats; the signs used green paint; guides liked the font.",
+   "answer": "comparable trails without new signs had no reduction",
+   "explanation": "A comparison group helps isolate the change associated with new signs.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-021-c1",
+     "label": "comparable trails without new signs had no reduction"
+    },
+    {
+     "id": "VER-021-c2",
+     "label": "more visitors wore hats"
+    },
+    {
+     "id": "VER-021-c3",
+     "label": "the signs used green paint"
+    },
+    {
+     "id": "VER-021-c4",
+     "label": "guides liked the font"
+    }
+   ]
+  },
+  {
+   "id": "VER-022",
+   "genreId": "verbal",
+   "primarySkill": "Weaken",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "Claim: 'A new menu caused higher cafe sales.' Which most weakens it: a nearby cafe closed that week; the menu has pictures; staff liked the dishes; prices were unchanged.",
+   "answer": "a nearby cafe closed that week",
+   "explanation": "Competitor closure offers an alternative cause for increased sales.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-022-c1",
+     "label": "a nearby cafe closed that week"
+    },
+    {
+     "id": "VER-022-c2",
+     "label": "the menu has pictures"
+    },
+    {
+     "id": "VER-022-c3",
+     "label": "staff liked the dishes"
+    },
+    {
+     "id": "VER-022-c4",
+     "label": "prices were unchanged"
+    }
+   ]
+  },
+  {
+   "id": "VER-023",
+   "genreId": "verbal",
+   "primarySkill": "Correlation",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "Camps with more lifeguards report more rescues. Is it justified to conclude that hiring lifeguards causes more accidents? Answer yes or no.",
+   "answer": "no",
+   "explanation": "Riskier or busier camps may employ more lifeguards. The association does not establish causation.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-023-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "VER-023-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "VER-024",
+   "genreId": "verbal",
+   "primarySkill": "Quantifier reading",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "'Not all trails are open.' Which must be true: at least one trail is not open; no trails are open; all trails are open; exactly one trail is open.",
+   "answer": "at least one trail is not open",
+   "explanation": "'Not all' denies universal openness without specifying how many are closed.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-024-c1",
+     "label": "at least one trail is not open"
+    },
+    {
+     "id": "VER-024-c2",
+     "label": "no trails are open"
+    },
+    {
+     "id": "VER-024-c3",
+     "label": "all trails are open"
+    },
+    {
+     "id": "VER-024-c4",
+     "label": "exactly one trail is open"
+    }
+   ]
+  },
+  {
+   "id": "VER-025",
+   "genreId": "verbal",
+   "primarySkill": "Scope",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "'Only certified guides may lead night walks.' Must every certified guide lead a night walk? Answer yes or no.",
+   "answer": "no",
+   "explanation": "Certification is necessary for leading, not a requirement that every certified guide leads.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-025-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "VER-025-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "VER-026",
+   "genreId": "verbal",
+   "primarySkill": "Summary",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "Passage: 'A city added buses. Waiting times fell, but crowding remained because demand also rose.' Best summary: extra buses reduced waits without eliminating crowding; extra buses solved every problem; demand fell; waiting times rose.",
+   "answer": "extra buses reduced waits without eliminating crowding",
+   "explanation": "This retains both the benefit and the remaining problem with its context.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-026-c1",
+     "label": "extra buses reduced waits without eliminating crowding"
+    },
+    {
+     "id": "VER-026-c2",
+     "label": "extra buses solved every problem"
+    },
+    {
+     "id": "VER-026-c3",
+     "label": "demand fell"
+    },
+    {
+     "id": "VER-026-c4",
+     "label": "waiting times rose"
+    }
+   ]
+  },
+  {
+   "id": "VER-027",
+   "genreId": "verbal",
+   "primarySkill": "Inference",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "'Every restored cabin has solar lighting. Cabin K has no solar lighting.' Which follows: K is not restored; K is restored; no cabin is restored; K has no roof.",
+   "answer": "K is not restored",
+   "explanation": "The contrapositive of restored implies solar lighting is no solar lighting implies not restored.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-027-c1",
+     "label": "K is not restored"
+    },
+    {
+     "id": "VER-027-c2",
+     "label": "K is restored"
+    },
+    {
+     "id": "VER-027-c3",
+     "label": "no cabin is restored"
+    },
+    {
+     "id": "VER-027-c4",
+     "label": "K has no roof"
+    }
+   ]
+  },
+  {
+   "id": "VER-028",
+   "genreId": "verbal",
+   "primarySkill": "Argument relevance",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "Should a route be accessible to wheelchairs? Which evidence is most relevant: slope and surface measurements; number of birds nearby; paint colour; popularity of the guide's hat.",
+   "answer": "slope and surface measurements",
+   "explanation": "Accessibility depends directly on physical route characteristics.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-028-c1",
+     "label": "slope and surface measurements"
+    },
+    {
+     "id": "VER-028-c2",
+     "label": "number of birds nearby"
+    },
+    {
+     "id": "VER-028-c3",
+     "label": "paint colour"
+    },
+    {
+     "id": "VER-028-c4",
+     "label": "popularity of the guide's hat"
+    }
+   ]
+  },
+  {
+   "id": "VER-029",
+   "genreId": "verbal",
+   "primarySkill": "Analogy structure",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "A key unlocks a door. Which has the same enabling-tool relation: password accesses account; bird flies sky; rain wets street; mountain contains rock.",
+   "answer": "password accesses account",
+   "explanation": "Key and password are credentials/tools enabling access.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-029-c1",
+     "label": "password accesses account"
+    },
+    {
+     "id": "VER-029-c2",
+     "label": "bird flies sky"
+    },
+    {
+     "id": "VER-029-c3",
+     "label": "rain wets street"
+    },
+    {
+     "id": "VER-029-c4",
+     "label": "mountain contains rock"
+    }
+   ]
+  },
+  {
+   "id": "VER-030",
+   "genreId": "verbal",
+   "primarySkill": "Ambiguity",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "'Riya saw the ranger with binoculars.' Is it certain from this sentence alone that Riya used binoculars? Answer yes or no.",
+   "answer": "no",
+   "explanation": "'With binoculars' may describe the ranger or the instrument Riya used.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-030-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "VER-030-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "VER-031",
+   "genreId": "verbal",
+   "primarySkill": "Fact versus opinion",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "Which is directly measurable rather than a value judgment: the trail is 6 km long; the trail is the best; the view is magnificent; the camp is delightful.",
+   "answer": "the trail is 6 km long",
+   "explanation": "Length can be measured; the other descriptions express evaluations.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-031-c1",
+     "label": "the trail is 6 km long"
+    },
+    {
+     "id": "VER-031-c2",
+     "label": "the trail is the best"
+    },
+    {
+     "id": "VER-031-c3",
+     "label": "the view is magnificent"
+    },
+    {
+     "id": "VER-031-c4",
+     "label": "the camp is delightful"
+    }
+   ]
+  },
+  {
+   "id": "VER-032",
+   "genreId": "verbal",
+   "primarySkill": "Sufficient versus necessary",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "A permit is required for entry, but a permit holder can still be refused if the reserve is full. Is possessing a permit sufficient to guarantee entry? Answer yes or no.",
+   "answer": "no",
+   "explanation": "The permit is necessary, but capacity is an additional condition.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-032-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "VER-032-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "VER-033",
+   "genreId": "verbal",
+   "primarySkill": "CAT-style assumption",
+   "difficulty": "hard",
+   "answerFormat": "select",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "A trial finds faster completion among app users and recommends replacing all paper guides. Which assumption is essential to that generalisation: trial users reasonably represent future visitors; all visitors prefer blue; paper has no uses; speed is always the only goal.",
+   "answer": "trial users reasonably represent future visitors",
+   "explanation": "Extending a trial result to all visitors requires relevant representativeness. The other claims are unnecessary or overly absolute.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-033-c1",
+     "label": "trial users reasonably represent future visitors"
+    },
+    {
+     "id": "VER-033-c2",
+     "label": "all visitors prefer blue"
+    },
+    {
+     "id": "VER-033-c3",
+     "label": "paper has no uses"
+    },
+    {
+     "id": "VER-033-c4",
+     "label": "speed is always the only goal"
+    }
+   ]
+  },
+  {
+   "id": "VER-034",
+   "genreId": "verbal",
+   "primarySkill": "CAT-style weaken",
+   "difficulty": "hard",
+   "answerFormat": "select",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "A city observes fewer collisions after installing bike lanes and credits the lanes. Which finding most weakens the causal inference: cycling trips fell by a much larger proportion than collisions; lane paint became brighter; cyclists liked the lanes; the lanes connect parks.",
+   "answer": "cycling trips fell by a much larger proportion than collisions",
+   "explanation": "Lower exposure could explain fewer collisions, even if risk per trip rose. Raw counts alone do not identify the lane effect.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-034-c1",
+     "label": "cycling trips fell by a much larger proportion than collisions"
+    },
+    {
+     "id": "VER-034-c2",
+     "label": "lane paint became brighter"
+    },
+    {
+     "id": "VER-034-c3",
+     "label": "cyclists liked the lanes"
+    },
+    {
+     "id": "VER-034-c4",
+     "label": "the lanes connect parks"
+    }
+   ]
+  },
+  {
+   "id": "VER-035",
+   "genreId": "verbal",
+   "primarySkill": "CAT-style evaluate",
+   "difficulty": "hard",
+   "answerFormat": "select",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "A shop says a loyalty scheme increased profit because member spending rose. What is most useful to evaluate: whether incremental margin exceeded rewards and operating costs; whether the logo is round; whether members own phones; whether the shop sells bags.",
+   "answer": "whether incremental margin exceeded rewards and operating costs",
+   "explanation": "Spending growth alone does not establish incremental profit after costs or account for spending that would have occurred anyway.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-035-c1",
+     "label": "whether incremental margin exceeded rewards and operating costs"
+    },
+    {
+     "id": "VER-035-c2",
+     "label": "whether the logo is round"
+    },
+    {
+     "id": "VER-035-c3",
+     "label": "whether members own phones"
+    },
+    {
+     "id": "VER-035-c4",
+     "label": "whether the shop sells bags"
+    }
+   ]
+  },
+  {
+   "id": "VER-036",
+   "genreId": "verbal",
+   "primarySkill": "CAT-style paradox",
+   "difficulty": "hard",
+   "answerFormat": "select",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "A library extends opening hours, yet daily visitor totals fall. Which best resolves this: a nearby university closes for vacation at the same time; the library buys more chairs; lights are brighter; signs are repainted.",
+   "answer": "a nearby university closes for vacation at the same time",
+   "explanation": "A major fall in potential visitors can outweigh the effect of longer hours.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-036-c1",
+     "label": "a nearby university closes for vacation at the same time"
+    },
+    {
+     "id": "VER-036-c2",
+     "label": "the library buys more chairs"
+    },
+    {
+     "id": "VER-036-c3",
+     "label": "lights are brighter"
+    },
+    {
+     "id": "VER-036-c4",
+     "label": "signs are repainted"
+    }
+   ]
+  },
+  {
+   "id": "VER-037",
+   "genreId": "verbal",
+   "primarySkill": "CAT-style paragraph ordering",
+   "difficulty": "hard",
+   "answerFormat": "order",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "Order: A=But this apparent gain ignored the extra kilometres drivers travelled to reach the depot. B=The operator reported lower delivery time after moving its depot. C=Once those trips were included, total travel time had increased. D=Its report measured only time from depot departure to customer arrival.",
+   "answer": "B,D,A,C",
+   "explanation": "B introduces the claim; D defines its narrow measure; A identifies the omitted travel; C gives the corrected result.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "VER-038",
+   "genreId": "verbal",
+   "primarySkill": "CAT-style odd sentence",
+   "difficulty": "hard",
+   "answerFormat": "select",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "Find the sentence outside the argument: A=Restoring wetlands can reduce flood peaks. B=Wetlands temporarily store excess rainwater. C=That storage slows water entering rivers. D=Some migratory birds have colourful feathers. E=Therefore wetland restoration can complement flood barriers.",
+   "answer": "D",
+   "explanation": "A, B, C, E form a mechanism and conclusion about flood mitigation. D adds unrelated plumage information.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-038-c1",
+     "label": "A"
+    },
+    {
+     "id": "VER-038-c2",
+     "label": "B"
+    },
+    {
+     "id": "VER-038-c3",
+     "label": "C"
+    },
+    {
+     "id": "VER-038-c4",
+     "label": "D"
+    },
+    {
+     "id": "VER-038-c5",
+     "label": "E"
+    }
+   ]
+  },
+  {
+   "id": "VER-039",
+   "genreId": "verbal",
+   "primarySkill": "CAT-style reading inference",
+   "difficulty": "hard",
+   "answerFormat": "select",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "Passage: 'After fees fell, enrolment rose. Yet most new enrollees had already received full fee waivers before the change. The college also expanded evening classes.' Which is safest: the data alone do not isolate the fee reduction's effect; the fee reduction certainly caused all growth; fees never influence decisions; evening classes certainly caused all growth.",
+   "answer": "the data alone do not isolate the fee reduction's effect",
+   "explanation": "Many new students were already insulated from fees, and another policy changed. Neither cause is isolated by the observations.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-039-c1",
+     "label": "the data alone do not isolate the fee reduction's effect"
+    },
+    {
+     "id": "VER-039-c2",
+     "label": "the fee reduction certainly caused all growth"
+    },
+    {
+     "id": "VER-039-c3",
+     "label": "fees never influence decisions"
+    },
+    {
+     "id": "VER-039-c4",
+     "label": "evening classes certainly caused all growth"
+    }
+   ]
+  },
+  {
+   "id": "VER-040",
+   "genreId": "verbal",
+   "primarySkill": "CAT-style logical flaw",
+   "difficulty": "hard",
+   "answerFormat": "select",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "A manager says, 'Every successful launch had a pilot, so conducting a pilot guarantees success.' What is the flaw: treating an observed necessary condition as sufficient; using an irrelevant synonym; refusing to compare products; assuming failure is impossible without a pilot.",
+   "answer": "treating an observed necessary condition as sufficient",
+   "explanation": "Success implying pilot does not establish pilot implying success. Unsuccessful launches may also have had pilots.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "VER-040-c1",
+     "label": "treating an observed necessary condition as sufficient"
+    },
+    {
+     "id": "VER-040-c2",
+     "label": "using an irrelevant synonym"
+    },
+    {
+     "id": "VER-040-c3",
+     "label": "refusing to compare products"
+    },
+    {
+     "id": "VER-040-c4",
+     "label": "assuming failure is impossible without a pilot"
+    }
+   ]
+  },
+  {
+   "id": "SPA-001",
+   "genreId": "spatial",
+   "primarySkill": "Shape classification",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "Classify by having a curved boundary. Which belongs in the curved group: circle, square, triangle, pentagon?",
+   "answer": "circle",
+   "explanation": "A circle has a curved boundary; the listed polygons have straight sides.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "SPA-001-c1",
+     "label": "circle"
+    },
+    {
+     "id": "SPA-001-c2",
+     "label": "square"
+    },
+    {
+     "id": "SPA-001-c3",
+     "label": "triangle"
+    },
+    {
+     "id": "SPA-001-c4",
+     "label": "pentagon"
+    }
+   ]
+  },
+  {
+   "id": "SPA-002",
+   "genreId": "spatial",
+   "primarySkill": "Shape classification",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "Group by having exactly four sides. Which does not belong: square, rectangle, trapezoid, hexagon?",
+   "answer": "hexagon",
+   "explanation": "A hexagon has six sides; the others have four.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "SPA-002-c1",
+     "label": "square"
+    },
+    {
+     "id": "SPA-002-c2",
+     "label": "rectangle"
+    },
+    {
+     "id": "SPA-002-c3",
+     "label": "trapezoid"
+    },
+    {
+     "id": "SPA-002-c4",
+     "label": "hexagon"
+    }
+   ]
+  },
+  {
+   "id": "SPA-003",
+   "genreId": "spatial",
+   "primarySkill": "Rotation",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "An arrow points north. Rotate it 90 degrees clockwise. Which direction does it point?",
+   "answer": "east",
+   "explanation": "Clockwise order is north, east, south, west.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-004",
+   "genreId": "spatial",
+   "primarySkill": "Rotation",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "An arrow points east. Rotate it 180 degrees. Which direction does it point?",
+   "answer": "west",
+   "explanation": "A half-turn reverses the direction.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-005",
+   "genreId": "spatial",
+   "primarySkill": "Reflection",
+   "difficulty": "easy",
+   "answerFormat": "coordinate",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "In a coordinate plane, reflect the point (3, 2) across the vertical y-axis. Give (x, y).",
+   "answer": "(-3,2)",
+   "explanation": "Reflection across the y-axis changes x's sign and preserves y.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-006",
+   "genreId": "spatial",
+   "primarySkill": "Reflection",
+   "difficulty": "easy",
+   "answerFormat": "coordinate",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "Reflect the point (−2, 4) across the horizontal x-axis. Give (x, y).",
+   "answer": "(-2,-4)",
+   "explanation": "Reflection across the x-axis preserves x and changes y's sign.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-007",
+   "genreId": "spatial",
+   "primarySkill": "Visual series",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "A shape sequence repeats circle, triangle, square. Positions 1–6 are circle, triangle, square, circle, triangle, square. What is at position 7?",
+   "answer": "circle",
+   "explanation": "Position 7 starts the next three-shape cycle.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-008",
+   "genreId": "spatial",
+   "primarySkill": "Pattern recognition",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "A sequence of tiles has 1, 3, 5, 7 dots. Each tile adds 2 dots. How many dots are on the next tile?",
+   "answer": "9",
+   "explanation": "Apply the stated constant increment:7+2.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-009",
+   "genreId": "spatial",
+   "primarySkill": "Grid coordinates",
+   "difficulty": "easy",
+   "answerFormat": "coordinate",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "On a grid, columns increase east and rows increase north. Start at (1, 1), move 2 east and 3 north. Give the final coordinate.",
+   "answer": "(3,4)",
+   "explanation": "Add 2 to x and 3 to y.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-010",
+   "genreId": "spatial",
+   "primarySkill": "Counting shapes",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "A square is divided by one full horizontal and one full vertical line through its centre. How many smallest squares result?",
+   "answer": "4",
+   "explanation": "The lines produce a 2-by-2 grid of equal squares.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-011",
+   "genreId": "spatial",
+   "primarySkill": "Symmetry",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "How many reflection axes does a non-square rectangle have?",
+   "answer": "2",
+   "explanation": "Its horizontal and vertical midlines are axes; diagonals are not.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-012",
+   "genreId": "spatial",
+   "primarySkill": "Shape analogy",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "Relate a polygon to its number of sides: triangle:3 :: octagon:?.",
+   "answer": "8",
+   "explanation": "An octagon has eight sides.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-013",
+   "genreId": "spatial",
+   "primarySkill": "Coordinate rotation",
+   "difficulty": "medium",
+   "answerFormat": "coordinate",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "Rotate point (2, 1) by 90 degrees anticlockwise about the origin. Give (x, y).",
+   "answer": "(-1,2)",
+   "explanation": "The rule is (x, y)→(−y, x).",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-014",
+   "genreId": "spatial",
+   "primarySkill": "Coordinate rotation",
+   "difficulty": "medium",
+   "answerFormat": "coordinate",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "Rotate point (−3, 2) by 90 degrees clockwise about the origin. Give (x, y).",
+   "answer": "(2,3)",
+   "explanation": "The rule is (x, y)→(y, −x).",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-015",
+   "genreId": "spatial",
+   "primarySkill": "Composite transforms",
+   "difficulty": "medium",
+   "answerFormat": "coordinate",
+   "expectedSeconds": 90,
+   "level": 8,
+   "prompt": "Reflect (2, 3) in the y-axis, then rotate the result 90 degrees clockwise about the origin. Give the final point.",
+   "answer": "(3,2)",
+   "explanation": "Reflection gives (−2, 3); clockwise rotation gives (3, 2).",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-016",
+   "genreId": "spatial",
+   "primarySkill": "Translation",
+   "difficulty": "medium",
+   "answerFormat": "coordinate",
+   "expectedSeconds": 90,
+   "level": 8,
+   "prompt": "Triangle vertices are (0, 0), (2, 0), (0, 3). Translate every vertex by vector (3, −1). What is the new position of vertex (0, 3)?",
+   "answer": "(3,2)",
+   "explanation": "Translation adds 3 to x and subtracts 1 from y.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-017",
+   "genreId": "spatial",
+   "primarySkill": "Visual matrix",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 9,
+   "prompt": "A 3-by-3 dot-count matrix has rows [1, 2, 3], [2, 3, 4], [3, 4, ?]. Each step right or down adds one. Find ?.",
+   "answer": "5",
+   "explanation": "The third row must be 3, 4, 5.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-018",
+   "genreId": "spatial",
+   "primarySkill": "Overlay parity",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 9,
+   "prompt": "Binary tile overlay uses XOR: equal bits give 0, different bits give 1. Overlay rows [1, 0, 1, 0] and [1, 1, 0, 0]. How many 1s result?",
+   "answer": "2",
+   "explanation": "Result=[0, 1, 1, 0], containing two 1s.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-019",
+   "genreId": "spatial",
+   "primarySkill": "Squares in grids",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 10,
+   "prompt": "How many axis-aligned squares of all sizes exist in a 3-by-3 grid of unit squares?",
+   "answer": "14",
+   "explanation": "There are 9 unit squares, 4 of side 2 and 1 of side 3. Total 14.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-020",
+   "genreId": "spatial",
+   "primarySkill": "Rectangles in grids",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 10,
+   "prompt": "How many axis-aligned rectangles of all sizes exist in a 2-by-3 grid of unit squares?",
+   "answer": "18",
+   "explanation": "Choose two of three horizontal lines and two of four vertical lines: C(3, 2)C(4, 2)=18.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-021",
+   "genreId": "spatial",
+   "primarySkill": "Painted cube",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "A solid cube is painted on all six outside faces and cut into 27 equal small cubes. How many small cubes have exactly three painted faces?",
+   "answer": "8",
+   "explanation": "Only the eight corner cubes touch three outer faces.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-022",
+   "genreId": "spatial",
+   "primarySkill": "Painted cube",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "A solid cube is painted outside and cut into a 3-by-3-by-3 array. How many small cubes have no painted faces?",
+   "answer": "1",
+   "explanation": "Interior count=(3−2)³=1.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-023",
+   "genreId": "spatial",
+   "primarySkill": "Cube opposites",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "A cube has opposite face pairs A–F, B–E, C–D. Which face is opposite C?",
+   "answer": "D",
+   "explanation": "The pair C–D directly specifies the opposite face.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-024",
+   "genreId": "spatial",
+   "primarySkill": "Cube net",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "A net has cells A=(0, 0), B=(1, 0), C=(2, 0), D=(3, 0), E=(1, 1), F=(1, −1), with unit squares joined on shared edges. Fold it into a cube. Which face is opposite B?",
+   "answer": "D",
+   "explanation": "The four-cell row wraps around the cube; its first and third faces oppose, as do second and fourth. Thus B opposes D.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-025",
+   "genreId": "spatial",
+   "primarySkill": "Paper folding",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "Fold a square in half left-to-right, then bottom-to-top. Punch one hole strictly inside the folded quarter, away from all fold lines and boundaries. How many holes appear after unfolding?",
+   "answer": "4",
+   "explanation": "Each of two folds doubles the interior hole count:2²=4.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-026",
+   "genreId": "spatial",
+   "primarySkill": "Checkerboard parity",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "Colour a 4-by-4 board like a checkerboard. Remove the top-left and bottom-right corner cells. Can the remainder be tiled with 1-by-2 dominoes? Answer yes or no.",
+   "answer": "no",
+   "explanation": "The removed corners have the same colour. Remaining colour counts differ, while each domino covers one cell of each colour.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "SPA-026-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "SPA-026-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "SPA-027",
+   "genreId": "spatial",
+   "primarySkill": "Shortest paths",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "On a grid, travel from (0, 0) to (3, 2) using only steps east or north. How many shortest paths are there?",
+   "answer": "10",
+   "explanation": "Choose positions of two north steps among five total steps:C(5, 2)=10.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-028",
+   "genreId": "spatial",
+   "primarySkill": "Direction turns",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "An arrow faces north. Rotate clockwise by 90°, then anticlockwise by 180°, then clockwise by 270°. Which direction does it face?",
+   "answer": "south",
+   "explanation": "Net rotation=90−180+270=180° clockwise, giving south.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-029",
+   "genreId": "spatial",
+   "primarySkill": "Rotational symmetry",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "What is the order of rotational symmetry of a regular hexagon?",
+   "answer": "6",
+   "explanation": "Rotations by multiples of 60° preserve it, giving six positions in a full turn.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-030",
+   "genreId": "spatial",
+   "primarySkill": "Polygon diagonals",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "How many diagonals does a convex hexagon have?",
+   "answer": "9",
+   "explanation": "Each vertex connects diagonally to 3 others. Count 6×3/2=9.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-031",
+   "genreId": "spatial",
+   "primarySkill": "Pattern encoding",
+   "difficulty": "medium",
+   "answerFormat": "text",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "A triangular tile state cycles orientation up, right, down, left and independently colour red, blue. Starting up-red, give the state after 5 updates.",
+   "answer": "right-blue",
+   "explanation": "Five mod 4 is 1, giving right. Five is odd, so colour switches to blue.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-032",
+   "genreId": "spatial",
+   "primarySkill": "Spatial sufficiency",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "A solid is known to have six faces. Is that information alone sufficient to conclude it is a cube? Answer yes or no.",
+   "answer": "no",
+   "explanation": "A non-cubic rectangular cuboid also has six faces. Face count alone does not fix edge lengths or geometry.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "SPA-032-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "SPA-032-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "SPA-033",
+   "genreId": "spatial",
+   "primarySkill": "Advanced painted cube",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "A cube is painted outside and cut into 125 equal cubes in a 5-by-5-by-5 array. How many small cubes have exactly two painted faces?",
+   "answer": "36",
+   "explanation": "Edge-interior cubes have exactly two painted faces. There are 12 edges with 5−2=3 such cubes each:36.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-034",
+   "genreId": "spatial",
+   "primarySkill": "Advanced painted cube",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "The same 5-by-5-by-5 painted cube is cut into 125 cubes. One is selected uniformly. What is the probability it has exactly one painted face?",
+   "answer": "54/125",
+   "explanation": "Each of 6 face interiors has(5−2)²=9 cubes; total 54 of 125.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-035",
+   "genreId": "spatial",
+   "primarySkill": "Obstacle paths",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "Count shortest east/north grid paths from (0, 0) to (4, 3) that do not pass through (2, 1).",
+   "answer": "17",
+   "explanation": "All paths=C(7, 3)=35. Paths via(2, 1):C(3, 1)×C(4, 2)=3×6=18. Avoiding count=17.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-036",
+   "genreId": "spatial",
+   "primarySkill": "Domino tiling",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "How many ways can a 2-by-5 rectangle be tiled by identical 1-by-2 dominoes? Rotations of a domino are allowed; board positions are fixed.",
+   "answer": "8",
+   "explanation": "Let T(n)=T(n−1)+T(n−2), with T(1)=1, T(2)=2. Then T(3)=3, T(4)=5, T(5)=8.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-037",
+   "genreId": "spatial",
+   "primarySkill": "Visual matrix XOR",
+   "difficulty": "hard",
+   "answerFormat": "text",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "Every matrix row uses cell 3=cell 1 XOR cell 2 bit by bit. Row 1:101, 110, 011. Row 2:011, 101, 110. Row 3:110, 011, ?. Give the missing 3-bit string.",
+   "answer": "101",
+   "explanation": "XOR110 with 011 gives 101. Leading zeroes would matter in this task type.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-038",
+   "genreId": "spatial",
+   "primarySkill": "Rotation classes",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "Four marked slots form a ring. Each is coloured red or blue. Colourings differing only by rotation count as the same; reflections remain distinct. How many colourings exist?",
+   "answer": "6",
+   "explanation": "Burnside: identity fixes 16;90° fixes 2;180° fixes 4;270° fixes 2. Average(16+2+4+2)/4=6.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-039",
+   "genreId": "spatial",
+   "primarySkill": "Folding coordinates",
+   "difficulty": "hard",
+   "answerFormat": "coordinate",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "A square sheet occupies 0≤x, y≤8. Fold its left half onto the right, then its bottom half onto the top. A hole is punched at (6, 7) in the folded sheet. Give the original position of the reflected hole lying in the bottom-left quarter.",
+   "answer": "(2,1)",
+   "explanation": "Undo vertical fold:y=8−7=1. Undo horizontal fold:x=8−6=2. The bottom-left image is(2, 1).",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SPA-040",
+   "genreId": "spatial",
+   "primarySkill": "Composite geometry",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "A 4-by-4-by-4 array has cubes indexed (x, y, z), with each index 1–4. Remove every cube satisfying (y, z)=(2, 2), or (x, z)=(2, 2), or (x, y)=(2, 2). These form three perpendicular tunnels. How many unit cubes remain?",
+   "answer": "54",
+   "explanation": "Three lines contain 4 cubes each. Every pair intersects at the same cube(2, 2, 2). Union=12−3+1=10 removed. Remaining 64−10=54.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-001",
+   "genreId": "applied",
+   "primarySkill": "Unit economics",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "A stall sells a snack for ₹50 with variable cost ₹32. Find contribution per snack, ignoring fixed costs.",
+   "answer": "18",
+   "explanation": "Contribution=price−variable cost=50−32.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-002",
+   "genreId": "applied",
+   "primarySkill": "Budgeting",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 1,
+   "prompt": "A team has ₹1, 500 and spends ₹420 on food and ₹380 on transport. How much remains?",
+   "answer": "700",
+   "explanation": "Remaining=1500−420−380=700.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-003",
+   "genreId": "applied",
+   "primarySkill": "Capacity",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "A boat holds 8 passengers. What is the minimum number of trips needed to carry 26 passengers, ignoring return-trip capacity?",
+   "answer": "4",
+   "explanation": "Round 26/8 up to the next integer:4.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-004",
+   "genreId": "applied",
+   "primarySkill": "Scheduling",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": 2,
+   "prompt": "Task A must finish before B can start. A takes 09:00–09:45. What is B's earliest start time? Use HH:MM.",
+   "answer": "09:45",
+   "explanation": "B can start immediately when A finishes at 09:45.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-005",
+   "genreId": "applied",
+   "primarySkill": "Inventory",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "Start with 120 torches, receive 35 and sell 48. What is closing inventory?",
+   "answer": "107",
+   "explanation": "Closing=120+35−48.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-006",
+   "genreId": "applied",
+   "primarySkill": "Rates",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 3,
+   "prompt": "One packer prepares 6 identical kits per hour. How many kits can 3 such packers prepare in 2 hours with no interference?",
+   "answer": "36",
+   "explanation": "Output=6×3×2.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-007",
+   "genreId": "applied",
+   "primarySkill": "Travel planning",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "A bus leaves at 10:20 and the journey lasts 95 minutes. Give arrival time in 24-hour HH:MM format.",
+   "answer": "11:55",
+   "explanation": "Add 1 hour 35 minutes to 10:20.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-008",
+   "genreId": "applied",
+   "primarySkill": "Unit comparison",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 4,
+   "prompt": "Pack A costs₹90 for 300g; Pack B costs₹120 for 500g. Which is cheaper per gram?",
+   "answer": "B",
+   "explanation": "A costs₹0.30/g and B₹0.24/g.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "APP-008-c1",
+     "label": "A"
+    },
+    {
+     "id": "APP-008-c2",
+     "label": "B"
+    }
+   ]
+  },
+  {
+   "id": "APP-009",
+   "genreId": "applied",
+   "primarySkill": "Rule eligibility",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "A voucher requires a basket of at least₹500 before discount. A basket is₹499. Is it eligible? Answer yes or no.",
+   "answer": "no",
+   "explanation": "₹499 is below the stated inclusive threshold of₹500.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "APP-009-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "APP-009-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "APP-010",
+   "genreId": "applied",
+   "primarySkill": "Resource balance",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 5,
+   "prompt": "A camp needs 3 litres per person per day. For 7 people over 2 days, how many litres are needed?",
+   "answer": "42",
+   "explanation": "Multiply 3×7×2.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-011",
+   "genreId": "applied",
+   "primarySkill": "Queue processing",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "A single desk serves one person every 4 minutes. Starting with an empty system, how long in minutes to finish serving 5 people who all arrive at time 0?",
+   "answer": "20",
+   "explanation": "Five sequential services at 4 minutes each require 20 minutes.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-012",
+   "genreId": "applied",
+   "primarySkill": "Decision rule",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": 6,
+   "prompt": "Choose the route with the shortest time: A=35min, B=28min, C=31min. All routes satisfy the same safety requirement.",
+   "answer": "B",
+   "explanation": "Under the stated objective and equal feasibility, 28 minutes is the minimum.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "APP-012-c1",
+     "label": "A"
+    },
+    {
+     "id": "APP-012-c2",
+     "label": "B"
+    },
+    {
+     "id": "APP-012-c3",
+     "label": "C"
+    }
+   ]
+  },
+  {
+   "id": "APP-013",
+   "genreId": "applied",
+   "primarySkill": "Break-even",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "A camp pays₹2, 400 fixed setup cost. Each ticket brings₹200 revenue and₹80 variable cost. Find break-even tickets.",
+   "answer": "20",
+   "explanation": "Per-ticket contribution=120;2400/120=20.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-014",
+   "genreId": "applied",
+   "primarySkill": "Stock planning",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 7,
+   "prompt": "Daily demand is 12 units, delivery lead time is 4 days, and safety stock is 10. Using demand during lead time plus safety stock, find the reorder point.",
+   "answer": "58",
+   "explanation": "Reorder point=12×4+10=58.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-015",
+   "genreId": "applied",
+   "primarySkill": "Scheduling",
+   "difficulty": "medium",
+   "answerFormat": "order",
+   "expectedSeconds": 100,
+   "level": 8,
+   "prompt": "Three one-hour jobs A, B, C run on one machine. B must follow A; C must precede A. Give the only valid order.",
+   "answer": "C,A,B",
+   "explanation": "The constraints form the chain C before A before B.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-016",
+   "genreId": "applied",
+   "primarySkill": "Parallel processing",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 8,
+   "prompt": "A file takes 12 minutes to upload and another takes 18. They start together on independent links with no interference. After how many minutes are both done?",
+   "answer": "18",
+   "explanation": "Parallel completion is determined by the longer duration, 18 minutes.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-017",
+   "genreId": "applied",
+   "primarySkill": "Capacity bottleneck",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 9,
+   "prompt": "A process has sequential stations with capacities 30, 18 and 24 kits/hour. With adequate buffers and demand, what is maximum steady-state output per hour?",
+   "answer": "18",
+   "explanation": "The slowest station limits throughput to 18 kits/hour.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-018",
+   "genreId": "applied",
+   "primarySkill": "Expected value",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 9,
+   "prompt": "A game pays₹100 with probability 0.2 and₹0 otherwise. Entry costs₹15. Find expected net payoff in rupees.",
+   "answer": "5",
+   "explanation": "Expected payout=0.2×100=20; subtract 15 entry cost.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-019",
+   "genreId": "applied",
+   "primarySkill": "Offer comparison",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 10,
+   "prompt": "On a₹1, 000 item, offer A is 20% off; offer B is₹150 off. Which gives the lower price?",
+   "answer": "A",
+   "explanation": "A price=800;B price=850. A saves more.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "APP-019-c1",
+     "label": "A"
+    },
+    {
+     "id": "APP-019-c2",
+     "label": "B"
+    }
+   ]
+  },
+  {
+   "id": "APP-020",
+   "genreId": "applied",
+   "primarySkill": "Effective discount",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 10,
+   "prompt": "A₹2, 000 item receives 10% off and then a₹100 voucher. Find total discount as a percentage of the original price.",
+   "answer": "15",
+   "explanation": "First saving 200, then 100; total 300 of 2000=15%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-021",
+   "genreId": "applied",
+   "primarySkill": "Quality yield",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "A factory makes 500 units and rejects 4%. How many pass inspection?",
+   "answer": "480",
+   "explanation": "Accepted share=96%;500×0.96=480.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-022",
+   "genreId": "applied",
+   "primarySkill": "Batch requirement",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 11,
+   "prompt": "Each batch produces 24 units, of which exactly 3 are unusable. How many full batches are needed to supply 100 usable units?",
+   "answer": "5",
+   "explanation": "Usable output per batch=21. Four give 84, five give 105.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-023",
+   "genreId": "applied",
+   "primarySkill": "Contribution allocation",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "Product A contributes₹40 per machine-hour and B₹55. Both have unlimited demand and use no other scarce resource. With 8 available machine-hours, what is maximum total contribution?",
+   "answer": "440",
+   "explanation": "Assign all 8 hours to B, giving 8×55=440.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-024",
+   "genreId": "applied",
+   "primarySkill": "Experiment calculation",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 12,
+   "prompt": "Control has 40 purchases from 400 users; treatment has 60 from 400. Find the absolute conversion-rate difference in percentage points.",
+   "answer": "5",
+   "explanation": "Control 10%, treatment 15%; absolute difference 5 percentage points.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-025",
+   "genreId": "applied",
+   "primarySkill": "Experiment interpretation",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "An experiment shows treatment 15% conversion and control 10%. Is the relative uplift 50% or 5%?",
+   "answer": "50%",
+   "explanation": "Relative uplift=(15−10)/10=50%. The absolute difference is 5 percentage points.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "APP-025-c1",
+     "label": "50%"
+    },
+    {
+     "id": "APP-025-c2",
+     "label": "5%"
+    }
+   ]
+  },
+  {
+   "id": "APP-026",
+   "genreId": "applied",
+   "primarySkill": "Acquisition economics",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 13,
+   "prompt": "A campaign spends₹9, 000 and brings 30 incremental new customers. Find acquisition cost per incremental customer.",
+   "answer": "300",
+   "explanation": "CAC=9000/30. The denominator explicitly uses incremental customers.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-027",
+   "genreId": "applied",
+   "primarySkill": "Retention denominator",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "Of 80 customers acquired in January, 20 order again in February. Find February repeat rate for that acquisition cohort as a percentage.",
+   "answer": "25",
+   "explanation": "Repeat rate=20/80×100, using the original acquisition cohort.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-028",
+   "genreId": "applied",
+   "primarySkill": "Return on investment",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 14,
+   "prompt": "An intervention produces₹12, 000 incremental contribution before intervention cost and costs₹4, 000. Define net ROI=(incremental contribution−cost)/cost. Give ROI as a percentage.",
+   "answer": "200",
+   "explanation": "Net benefit=8000;8000/4000×100=200%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-029",
+   "genreId": "applied",
+   "primarySkill": "Shipping threshold",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "Free delivery starts at₹600 before fees. A basket is₹465. What additional item value is needed to meet the threshold exactly?",
+   "answer": "135",
+   "explanation": "Required addition=600−465=135.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-030",
+   "genreId": "applied",
+   "primarySkill": "Weighted service time",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 15,
+   "prompt": "At a desk, 60% of cases take 5 minutes and 40% take 10 minutes. Find expected service time in minutes.",
+   "answer": "7",
+   "explanation": "Weighted mean=0.6×5+0.4×10=7.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-031",
+   "genreId": "applied",
+   "primarySkill": "Probability of delay",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "Two independent suppliers each have a 20% chance of delay. What is the probability at least one is delayed?",
+   "answer": "9/25",
+   "explanation": "Complement of neither delayed:1−0.8²=0.36=9/25.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-032",
+   "genreId": "applied",
+   "primarySkill": "Data sufficiency",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": 16,
+   "prompt": "Can a team complete a job by noon? I: work requires 6 person-hours. II: two workers are available from 09:00 to 12:00 and work independently at the required constant rate. Options:I alone;II alone;both together;neither even together.",
+   "answer": "both together",
+   "explanation": "Together, available capacity=2×3=6 person-hours, matching the requirement. Neither statement alone supplies both demand and capacity.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "APP-032-c1",
+     "label": "I alone"
+    },
+    {
+     "id": "APP-032-c2",
+     "label": "II alone"
+    },
+    {
+     "id": "APP-032-c3",
+     "label": "both together"
+    },
+    {
+     "id": "APP-032-c4",
+     "label": "neither even together"
+    }
+   ]
+  },
+  {
+   "id": "APP-033",
+   "genreId": "applied",
+   "primarySkill": "Integer optimisation",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "Products X and Y yield₹40 and₹50 contribution per unit. X needs 2 wood and 1 metal; Y needs 1 wood and 2 metal. You have 10 wood and 8 metal. Find maximum contribution with nonnegative integer quantities.",
+   "answer": "260",
+   "explanation": "Feasible X=4, Y=2 yields 260. Enumerating Y=0, 1, 2, 3, 4 gives best contributions 200, 210, 260, 230, 200; optimum 260.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-034",
+   "genreId": "applied",
+   "primarySkill": "Critical path",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 17,
+   "prompt": "A project starts with A(3h) and B(5h) in parallel. C(4h) starts after A; D(2h) starts after both B and C. Find minimum project duration in hours with unlimited workers.",
+   "answer": "9",
+   "explanation": "A ends 3, B ends 5, C ends 7. D starts atmax(5, 7)=7 and ends 9.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-035",
+   "genreId": "applied",
+   "primarySkill": "Batch scheduling",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "Two identical machines process nonpreemptive jobs of durations 8, 7, 6, 5, 4 hours, all available at time 0. Find the minimum time to finish all jobs.",
+   "answer": "15",
+   "explanation": "Total 30 gives lower bound 15. Assign 8+7 to one machine and 6+5+4 to the other to achieve 15.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-036",
+   "genreId": "applied",
+   "primarySkill": "Bayesian decision",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 18,
+   "prompt": "A detector flags 90% of defective items and 10% of good ones. Defect prevalence is 10%. Given a flag, what is the probability the item is defective?",
+   "answer": "1/2",
+   "explanation": "In 1000 items, 90 defective and 90 good items are flagged. Probability=90/180=1/2.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-037",
+   "genreId": "applied",
+   "primarySkill": "Expected cost optimisation",
+   "difficulty": "hard",
+   "answerFormat": "select",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "Supplier A costs₹100 and has 20% failure probability; B costs₹112 and has 5%. Each failure adds₹100 remediation cost. Ignore all other effects. Which has lower expected total cost?",
+   "answer": "B",
+   "explanation": "Expected A=100+0.2×100=120;B=112+0.05×100=117. B is cheaper in expectation.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "APP-037-c1",
+     "label": "A"
+    },
+    {
+     "id": "APP-037-c2",
+     "label": "B"
+    }
+   ]
+  },
+  {
+   "id": "APP-038",
+   "genreId": "applied",
+   "primarySkill": "Incrementality",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 19,
+   "prompt": "A treatment of 1000 users yields 180 orders; a comparable randomised control of 1000 yields 150. Contribution is₹80 per order before campaign cost. Campaign cost is₹1, 600. Find incremental profit in rupees.",
+   "answer": "800",
+   "explanation": "Incremental orders=30;contribution=2400;subtract 1600 to get 800. Using all 180 orders would overstate impact.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-039",
+   "genreId": "applied",
+   "primarySkill": "Allocation with fixed cost",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "You may open either or both stalls. A costs₹100 fixed and earns₹8 contribution per served person; B costs₹180 fixed and earns₹12 per person. Each stall has capacity 20 people. Exactly 30 people must be served. Find maximum profit after fixed costs.",
+   "answer": "40",
+   "explanation": "Both stalls are required for capacity. Serve 20 at B and 10 at A:240+80−180−100=40.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "APP-040",
+   "genreId": "applied",
+   "primarySkill": "Optimisation under uncertainty",
+   "difficulty": "hard",
+   "answerFormat": "select",
+   "expectedSeconds": 180,
+   "level": 20,
+   "prompt": "Choose one plan. Plan A pays 100 in dry weather and 0 in rain. Plan B pays 60 in either case. Rain probability is 0.3. Under an expected-payoff objective, which plan is preferred?",
+   "answer": "A",
+   "explanation": "Expected A=0.7×100+0.3×0=70. B always pays 60. Risk preference is fixed by the stated expected-payoff objective.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "APP-040-c1",
+     "label": "A"
+    },
+    {
+     "id": "APP-040-c2",
+     "label": "B"
+    }
+   ]
+  }
+ ],
+ "summit": [
+  {
+   "id": "SUM-001",
+   "genreId": "quant",
+   "primarySkill": "Percentages",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": null,
+   "prompt": "A summit path has 360 steps. You finish 30%. How many steps remain?",
+   "answer": "252",
+   "explanation": "Completed=108;remaining=360−108=252.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-002",
+   "genreId": "logic",
+   "primarySkill": "Blood relationships",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": null,
+   "prompt": "Isha is Karan's mother. Karan is Meera's brother and shares both parents with her. How is Isha related to Meera?",
+   "answer": "mother",
+   "explanation": "The shared-parent condition makes Isha the mother of both siblings.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-003",
+   "genreId": "data",
+   "primarySkill": "Table totals",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": null,
+   "prompt": "Three trail counters show 25,35,40 entries. Find total entries.",
+   "answer": "100",
+   "explanation": "Add 25+35+40=100.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-004",
+   "genreId": "verbal",
+   "primarySkill": "Analogy",
+   "difficulty": "easy",
+   "answerFormat": "select",
+   "expectedSeconds": 45,
+   "level": null,
+   "prompt": "Seed is to plant as egg is to: bird, nest, feather, branch.",
+   "answer": "bird",
+   "explanation": "Both pairs connect an initial biological stage to a developed organism.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "SUM-004-c1",
+     "label": "bird"
+    },
+    {
+     "id": "SUM-004-c2",
+     "label": "nest"
+    },
+    {
+     "id": "SUM-004-c3",
+     "label": "feather"
+    },
+    {
+     "id": "SUM-004-c4",
+     "label": "branch"
+    }
+   ]
+  },
+  {
+   "id": "SUM-005",
+   "genreId": "spatial",
+   "primarySkill": "Rotation",
+   "difficulty": "easy",
+   "answerFormat": "text",
+   "expectedSeconds": 45,
+   "level": null,
+   "prompt": "A flag arrow points south. Rotate it 90 degrees anticlockwise. What direction does it point?",
+   "answer": "east",
+   "explanation": "Anticlockwise from south turns toward east.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-006",
+   "genreId": "applied",
+   "primarySkill": "Budgeting",
+   "difficulty": "easy",
+   "answerFormat": "numeric",
+   "expectedSeconds": 45,
+   "level": null,
+   "prompt": "From₹2,400, spend₹900 on equipment and₹650 on food. Find money remaining.",
+   "answer": "850",
+   "explanation": "2400−900−650=850.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-007",
+   "genreId": "quant",
+   "primarySkill": "Weighted mixture",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": null,
+   "prompt": "Blend 10 litres costing₹40/litre with 15 litres costing₹60/litre. Find cost per litre of the mixture.",
+   "answer": "52",
+   "explanation": "Total cost=400+900=1300;volume 25;mean 52.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-008",
+   "genreId": "logic",
+   "primarySkill": "Ranking",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": null,
+   "prompt": "A climber is 12th from the front and 8th from the rear of a line. Find the number of climbers.",
+   "answer": "19",
+   "explanation": "Total=12+8−1=19.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-009",
+   "genreId": "data",
+   "primarySkill": "Conditional share",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": null,
+   "prompt": "A camp has 200 guests.120 take a trail and 30 of these take the night trail. What percentage of trail users take the night trail?",
+   "answer": "25",
+   "explanation": "The denominator is 120 trail users;30/120=25%.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-010",
+   "genreId": "verbal",
+   "primarySkill": "Necessary condition",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": null,
+   "prompt": "All summit entrants need a key. R has no key. Can R be a summit entrant under that rule? Answer yes or no.",
+   "answer": "no",
+   "explanation": "Entry implies a key, so lack of a key rules out entry.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "SUM-010-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "SUM-010-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "SUM-011",
+   "genreId": "spatial",
+   "primarySkill": "Grid paths",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": null,
+   "prompt": "From(0,0) to(2,2), use only north/east unit steps. How many shortest paths exist?",
+   "answer": "6",
+   "explanation": "Four steps contain two north steps;C(4,2)=6.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-012",
+   "genreId": "applied",
+   "primarySkill": "Contribution",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": null,
+   "prompt": "An event sells 50 tickets at₹120 each, incurs₹40 variable cost per ticket and₹2,500 fixed cost. Find profit.",
+   "answer": "1500",
+   "explanation": "Contribution=50×80=4000;profit=4000−2500=1500.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-013",
+   "genreId": "quant",
+   "primarySkill": "Work rates",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": null,
+   "prompt": "Two pumps separately fill a tank in 10 and 15 hours. Working together, how long in hours?",
+   "answer": "6",
+   "explanation": "Combined rate=1/10+1/15=1/6.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-014",
+   "genreId": "logic",
+   "primarySkill": "Conditional deduction",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": null,
+   "prompt": "If A is chosen, B is chosen. If B is chosen, C is not chosen. A is chosen. Is C chosen? Answer yes or no.",
+   "answer": "no",
+   "explanation": "A forces B; B rules out C.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "SUM-014-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "SUM-014-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "SUM-015",
+   "genreId": "data",
+   "primarySkill": "Revenue versus growth",
+   "difficulty": "medium",
+   "answerFormat": "numeric",
+   "expectedSeconds": 90,
+   "level": null,
+   "prompt": "Camp A earns₹80,000 and grows 25%; B earns₹120,000 and grows 10%. Find combined new revenue.",
+   "answer": "232000",
+   "explanation": "A becomes 100000;B becomes 132000;total 232000.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-016",
+   "genreId": "verbal",
+   "primarySkill": "Causal reasoning",
+   "difficulty": "medium",
+   "answerFormat": "select",
+   "expectedSeconds": 90,
+   "level": null,
+   "prompt": "A team practices more after hiring a coach and then wins more games. Does this alone isolate the coach's effect from practice time? Answer yes or no.",
+   "answer": "no",
+   "explanation": "Coach hiring and practice volume changed together; their separate effects are not identified.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored",
+   "choices": [
+    {
+     "id": "SUM-016-c1",
+     "label": "Yes"
+    },
+    {
+     "id": "SUM-016-c2",
+     "label": "No"
+    }
+   ]
+  },
+  {
+   "id": "SUM-017",
+   "genreId": "quant",
+   "primarySkill": "CAT-style integer counting",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": null,
+   "prompt": "How many positive integer pairs (x,y), with x≤y, satisfy xy=72 and x+y is odd?",
+   "answer": "3",
+   "explanation": "Factor pairs are(1,72),(2,36),(3,24),(4,18),(6,12),(8,9). Odd sums occur for(1,72),(3,24),(8,9), giving 3.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-018",
+   "genreId": "logic",
+   "primarySkill": "Constraint enumeration",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": null,
+   "prompt": "Order A,B,C,D,E. A must precede B, B must precede C, and D must precede E. How many orders satisfy all constraints?",
+   "answer": "10",
+   "explanation": "Interleave the fixed chains ABC and DE;choose 3 of 5 slots for ABC:C(5,3)=10.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-019",
+   "genreId": "spatial",
+   "primarySkill": "Advanced paths",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": null,
+   "prompt": "Count shortest north/east paths from(0,0) to(4,4) that avoid(2,2).",
+   "answer": "34",
+   "explanation": "Total=C(8,4)=70. Through centre=C(4,2)²=36. Avoiding=70−36=34.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  },
+  {
+   "id": "SUM-020",
+   "genreId": "applied",
+   "primarySkill": "Resource optimisation",
+   "difficulty": "hard",
+   "answerFormat": "numeric",
+   "expectedSeconds": 180,
+   "level": null,
+   "prompt": "Projects X and Y yield₹70 and₹90. X needs 2 hours and 1 token;Y needs 3 hours and 1 token. Available:12 hours and 5 tokens. Nonnegative integer project counts. Find maximum yield.",
+   "answer": "390",
+   "explanation": "Let total projects n≤5. With 5 projects, base time 10 and each Y adds 1 hour, so at most 2 Y:3X+2Y yields 390. With≤4 projects, yield≤4×90=360. Thus 390 is optimal.",
+   "contentVersion": 1,
+   "reviewStatus": "draft",
+   "provenance": "original_authored"
+  }
+ ]
+}
